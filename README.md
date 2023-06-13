@@ -2,6 +2,7 @@
 This repository collates results from the top-tier European Rugby Champions Cup (previously known as the Heineken Cup or Heineken Champions Cup).
 The repository contains all matches from the tournament's inception in 1995 and many of the headings are self-explanatory.
 Information has been gathered from the Wikipedia pages for each season of the tournament.
+Datasets are cumulative i.e. the most recent dataset will include all match results from the previous one.
 
 
 **Defintions**
