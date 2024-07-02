@@ -14,4 +14,4 @@ Datasets are cumulative i.e. the most recent dataset will include all match resu
 **Limitations**
 
 1) Tries scored per team: this is only available for the first handful of fixtures in 1995, and again since April 2021.
-2) Scores after over-time: where a knock-out match finishes as a draw after 80 minutes, an additional 20 minutes is played to determine a winner. This data contains solely the scores after 80 minutes. For instance, the 2024 Final between Toulouse and Leinster (line 2002) finished 15-15 after 80 minutes but 22-31 after extra time. In this dataset it is recorded as 15-15 and a draw.
+2) Scores after over-time: where a knock-out match finishes as a draw after 80 minutes, an additional 20 minutes is played to determine a winner. This data contains solely the scores after 80 minutes. For instance, the 2024 Final between Toulouse and Leinster (line 2003) finished 15-15 after 80 minutes but 22-31 after extra time. In this dataset it is recorded as 15-15 and a draw.
