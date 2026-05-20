@@ -1,1 +1,2129 @@
-
+"Date","home","away","Home Score","Away Score","result","Tries scored H","Tries scored A","Neutral venue","Crowds"
+1995-10-31,"Farul Constanta","Toulouse",10,54,"Away",1,8,0,1
+1995-11-07,"Treviso","Farul Constanta",86,8,"Home",10,1,0,1
+1995-12-15,"Toulouse","Treviso",18,9,"Home",0,0,0,1
+1995-11-21,"Bordeaux","Cardiff Blues",14,14,"Draw",1,1,0,1
+1995-11-28,"Cardiff Blues","Ulster",46,6,"Home",5,0,0,1
+1995-12-13,"Ulster","Bordeaux",16,29,"Away",2,4,0,1
+1995-11-01,"Milan","Leinster",21,24,"Away",2,2,0,1
+1995-11-22,"Pontypridd","Milan",31,12,"Home",2,0,0,1
+1995-12-06,"Leinster","Pontypridd",23,22,"Home",2,1,0,1
+1995-11-01,"Munster","Swansea",17,13,"Home",2,1,0,1
+1995-11-08,"Castres","Munster",19,12,"Home",1,0,0,1
+1995-12-05,"Swansea","Castres",22,10,"Home",2,1,0,1
+1995-12-30,"Leinster","Cardiff Blues",14,23,"Away",1,1,0,1
+1995-12-30,"Toulouse","Swansea",30,3,"Home",3,0,0,1
+1996-01-06,"Cardiff Blues","Toulouse",18,18,"Draw",0,2,0,1
+1996-10-12,"Pontypridd","Treviso",28,22,"Home",NA,NA,0,1
+1996-10-12,"Bath","Edinburgh",55,26,"Home",NA,NA,0,1
+1996-10-16,"Edinburgh","Pontypridd",10,32,"Away",NA,NA,0,1
+1996-10-16,"Treviso","Dax",14,34,"Away",NA,NA,0,1
+1996-10-19,"Pontypridd","Bath",19,6,"Home",NA,NA,0,1
+1996-10-20,"Dax","Edinburgh",69,12,"Home",NA,NA,0,1
+1996-10-26,"Bath","Dax",25,16,"Home",NA,NA,0,1
+1996-10-27,"Edinburgh","Treviso",23,43,"Away",NA,NA,0,1
+1996-11-02,"Treviso","Bath",27,50,"Away",NA,NA,0,1
+1996-11-02,"Dax","Pontypridd",22,8,"Home",NA,NA,0,1
+1996-10-12,"Llanelli","Leinster",34,17,"Home",NA,NA,0,1
+1996-10-12,"Pau","Borders",85,28,"Home",NA,NA,0,1
+1996-10-16,"Leinster","Leicester",10,27,"Away",NA,NA,0,1
+1996-10-16,"Borders","Llanelli",24,16,"Home",NA,NA,0,1
+1996-10-19,"Llanelli","Pau",31,15,"Home",NA,NA,0,1
+1996-10-19,"Leicester","Borders",43,3,"Home",NA,NA,0,1
+1996-10-26,"Borders","Leinster",25,34,"Away",NA,NA,0,1
+1996-10-26,"Pau","Leicester",14,19,"Away",NA,NA,0,1
+1996-11-02,"Leinster","Pau",25,23,"Home",NA,NA,0,1
+1996-11-02,"Leicester","Llanelli",25,16,"Home",NA,NA,0,1
+1996-10-12,"Brive","Neath",34,19,"Home",NA,NA,0,1
+1996-10-13,"Caledonia","Ulster",34,41,"Away",NA,NA,0,1
+1996-10-16,"Ulster","Harlequins",15,21,"Away",NA,NA,0,1
+1996-10-16,"Neath","Caledonia",27,18,"Home",NA,NA,0,1
+1996-10-19,"Harlequins","Neath",44,22,"Home",NA,NA,0,1
+1996-10-20,"Caledonia","Brive",30,32,"Away",NA,NA,0,1
+1996-10-26,"Neath","Ulster",15,13,"Home",NA,NA,0,1
+1996-10-27,"Brive","Harlequins",23,10,"Home",NA,NA,0,1
+1996-11-02,"Ulster","Brive",6,17,"Away",NA,NA,0,1
+1996-11-02,"Harlequins","Caledonia",56,35,"Home",NA,NA,0,1
+1996-10-12,"Munster","Milan",23,5,"Home",NA,NA,0,1
+1996-10-13,"Wasps","Cardiff Blues",24,26,"Away",NA,NA,0,1
+1996-10-16,"Cardiff Blues","Munster",48,18,"Home",NA,NA,0,1
+1996-10-16,"Milan","Toulouse",26,44,"Away",NA,NA,0,1
+1996-10-19,"Munster","Wasps",49,22,"Home",NA,NA,0,1
+1996-10-19,"Toulouse","Cardiff Blues",36,20,"Home",NA,NA,0,1
+1996-10-26,"Wasps","Toulouse",77,17,"Home",NA,NA,0,1
+1996-10-27,"Cardiff Blues","Milan",41,19,"Home",NA,NA,0,1
+1996-11-02,"Milan","Wasps",23,33,"Away",NA,NA,0,1
+1996-11-02,"Toulouse","Munster",60,19,"Home",NA,NA,0,1
+1996-11-09,"Cardiff Blues","Bath",22,19,"Home",NA,NA,0,1
+1996-11-16,"Leicester","Harlequins",23,13,"Home",NA,NA,0,1
+1996-11-16,"Dax","Toulouse",18,26,"Away",NA,NA,0,1
+1996-11-17,"Brive","Llanelli",35,14,"Home",NA,NA,0,1
+1997-01-04,"Leicester","Toulouse",37,11,"Home",NA,NA,0,1
+1997-01-05,"Brive","Cardiff Blues",26,13,"Home",NA,NA,0,1
+1997-01-25,"Brive","Leicester",28,9,"Home",NA,NA,1,1
+1998-01-01,"Leinster","Toulouse",25,34,"Away",NA,NA,0,1
+1998-01-01,"Leicester","Milan",26,10,"Home",NA,NA,0,1
+1998-01-01,"Leinster","Leicester",16,9,"Home",NA,NA,0,1
+1998-01-01,"Milan","Toulouse",14,19,"Away",NA,NA,0,1
+1998-01-01,"Milan","Leinster",33,32,"Home",NA,NA,0,1
+1998-01-01,"Toulouse","Leicester",17,22,"Away",NA,NA,0,1
+1998-01-01,"Leicester","Leinster",47,22,"Home",NA,NA,0,1
+1998-01-01,"Toulouse","Milan",69,19,"Home",NA,NA,0,1
+1998-01-01,"Leicester","Toulouse",22,23,"Away",NA,NA,0,1
+1998-01-01,"Leinster","Milan",23,6,"Home",NA,NA,0,1
+1998-01-01,"Toulouse","Leinster",38,19,"Home",NA,NA,0,1
+1998-01-01,"Milan","Leicester",29,37,"Away",NA,NA,0,1
+1998-01-01,"Swansea","Wasps",25,31,"Away",NA,NA,0,1
+1998-01-01,"Ulster","Glasgow",12,18,"Away",NA,NA,0,1
+1998-01-01,"Swansea","Ulster",33,16,"Home",NA,NA,0,1
+1998-01-01,"Glasgow","Wasps",22,46,"Away",NA,NA,0,1
+1998-01-01,"Glasgow","Swansea",35,21,"Home",NA,NA,0,1
+1998-01-01,"Wasps","Ulster",56,3,"Home",NA,NA,0,1
+1998-01-01,"Ulster","Swansea",28,20,"Home",NA,NA,0,1
+1998-01-01,"Wasps","Glasgow",43,5,"Home",NA,NA,0,1
+1998-01-01,"Ulster","Wasps",21,38,"Away",NA,NA,0,1
+1998-01-01,"Swansea","Glasgow",30,22,"Home",NA,NA,0,1
+1998-01-01,"Glasgow","Ulster",30,15,"Home",NA,NA,0,1
+1998-01-01,"Wasps","Swansea",29,28,"Home",NA,NA,0,1
+1998-01-01,"Brive","Borders",56,18,"Home",NA,NA,0,1
+1998-01-01,"Pontypridd","Bath",15,21,"Away",NA,NA,0,1
+1998-01-01,"Borders","Bath",17,31,"Away",NA,NA,0,1
+1998-01-01,"Brive","Pontypridd",32,31,"Home",NA,NA,0,1
+1998-01-01,"Bath","Brive",27,25,"Home",NA,NA,0,1
+1998-01-01,"Borders","Pontypridd",16,23,"Away",NA,NA,0,1
+1998-01-01,"Pontypridd","Brive",29,29,"Draw",NA,NA,0,1
+1998-01-01,"Bath","Borders",27,23,"Home",NA,NA,0,1
+1998-01-01,"Pontypridd","Borders",46,26,"Home",NA,NA,0,1
+1998-01-01,"Brive","Bath",29,12,"Home",NA,NA,0,1
+1998-01-01,"Bath","Pontypridd",23,10,"Home",NA,NA,0,1
+1998-01-01,"Borders","Brive",29,39,"Away",NA,NA,0,1
+1998-01-01,"Bourgoin","Cardiff Blues",26,25,"Home",NA,NA,0,1
+1998-01-01,"Harlequins","Munster",48,40,"Home",NA,NA,0,1
+1998-01-01,"Harlequins","Bourgoin",45,7,"Home",NA,NA,0,1
+1998-01-01,"Cardiff Blues","Munster",43,23,"Home",NA,NA,0,1
+1998-01-01,"Munster","Bourgoin",17,15,"Home",NA,NA,0,1
+1998-01-01,"Cardiff Blues","Harlequins",21,28,"Away",NA,NA,0,1
+1998-01-01,"Munster","Cardiff Blues",32,37,"Away",NA,NA,0,1
+1998-01-01,"Bourgoin","Harlequins",18,30,"Away",NA,NA,0,1
+1998-01-01,"Bourgoin","Munster",21,6,"Home",NA,NA,0,1
+1998-01-01,"Harlequins","Cardiff Blues",31,32,"Away",NA,NA,0,1
+1998-01-01,"Cardiff Blues","Bourgoin",26,6,"Home",NA,NA,0,1
+1998-01-01,"Munster","Harlequins",23,16,"Home",NA,NA,0,1
+1998-01-01,"Treviso","Pau",18,19,"Away",NA,NA,0,1
+1998-01-01,"Caledonia","Scarlets",18,23,"Away",NA,NA,0,1
+1998-01-01,"Pau","Scarlets",44,12,"Home",NA,NA,0,1
+1998-01-01,"Caledonia","Treviso",17,9,"Home",NA,NA,0,1
+1998-01-01,"Scarlets","Treviso",39,18,"Home",NA,NA,0,1
+1998-01-01,"Pau","Caledonia",50,8,"Home",NA,NA,0,1
+1998-01-01,"Treviso","Caledonia",52,6,"Home",NA,NA,0,1
+1998-01-01,"Scarlets","Pau",14,10,"Home",NA,NA,0,1
+1998-01-01,"Treviso","Scarlets",42,25,"Home",NA,NA,0,1
+1998-01-01,"Caledonia","Pau",30,24,"Home",NA,NA,0,1
+1998-01-01,"Scarlets","Caledonia",31,10,"Home",NA,NA,0,1
+1998-01-01,"Pau","Treviso",56,7,"Home",NA,NA,0,1
+1998-01-01,"Leicester","Glasgow",90,19,"Home",NA,NA,0,1
+1998-01-01,"Brive","Pontypridd",25,20,"Home",NA,NA,0,1
+1998-01-01,"Cardiff Blues","Scarlets",24,20,"Home",NA,NA,0,1
+1998-01-01,"Bath","Cardiff Blues",32,21,"Home",NA,NA,0,1
+1998-01-01,"Toulouse","Harlequins",51,10,"Home",NA,NA,0,1
+1998-01-01,"Wasps","Brive",18,25,"Away",NA,NA,0,1
+1998-01-01,"Pau","Leicester",35,18,"Home",NA,NA,0,1
+1998-01-01,"Bath","Pau",20,14,"Home",NA,NA,0,1
+1998-01-01,"Toulouse","Brive",22,22,"Draw",NA,NA,0,1
+1998-01-01,"Bath","Brive",19,18,"Home",NA,NA,1,1
+1999-01-01,"Scarlets","Leinster",27,33,"Away",NA,NA,0,1
+1999-01-01,"Bordeaux","Stade Francais",28,39,"Away",NA,NA,0,1
+1999-01-01,"Leinster","Stade Francais",17,28,"Away",NA,NA,0,1
+1999-01-01,"Scarlets","Bordeaux",22,10,"Home",NA,NA,0,1
+1999-01-01,"Leinster","Bordeaux",9,3,"Home",NA,NA,0,1
+1999-01-01,"Stade Francais","Scarlets",49,3,"Home",NA,NA,0,1
+1999-01-01,"Stade Francais","Leinster",56,31,"Home",NA,NA,0,1
+1999-01-01,"Bordeaux","Scarlets",48,10,"Home",NA,NA,0,1
+1999-01-01,"Scarlets","Stade Francais",17,13,"Home",NA,NA,0,1
+1999-01-01,"Bordeaux","Leinster",31,10,"Home",NA,NA,0,1
+1999-01-01,"Leinster","Scarlets",27,34,"Away",NA,NA,0,1
+1999-01-01,"Stade Francais","Bordeaux",34,21,"Home",NA,NA,0,1
+1999-01-01,"Munster","Petrarca",20,13,"Home",NA,NA,0,1
+1999-01-01,"Neath","Perpignan",33,51,"Away",NA,NA,0,1
+1999-01-01,"Munster","Neath",34,10,"Home",NA,NA,0,1
+1999-01-01,"Perpignan","Petrarca",67,8,"Home",NA,NA,0,1
+1999-01-01,"Perpignan","Munster",41,24,"Home",NA,NA,0,1
+1999-01-01,"Petrarca","Neath",28,17,"Home",NA,NA,0,1
+1999-01-01,"Neath","Munster",18,18,"Draw",NA,NA,0,1
+1999-01-01,"Petrarca","Perpignan",6,14,"Away",NA,NA,0,1
+1999-01-01,"Munster","Perpignan",13,5,"Home",NA,NA,0,1
+1999-01-01,"Neath","Petrarca",16,3,"Home",NA,NA,0,1
+1999-01-01,"Perpignan","Neath",60,24,"Home",NA,NA,0,1
+1999-01-01,"Petrarca","Munster",21,35,"Away",NA,NA,0,1
+1999-01-01,"Ulster","Edinburgh",38,38,"Draw",NA,NA,0,1
+1999-01-01,"Toulouse","Ebbw Vale",108,16,"Home",NA,NA,0,1
+1999-01-01,"Edinburgh","Ebbw Vale",41,17,"Home",NA,NA,0,1
+1999-01-01,"Toulouse","Ulster",39,3,"Home",NA,NA,0,1
+1999-01-01,"Ebbw Vale","Ulster",28,61,"Away",NA,NA,0,1
+1999-01-01,"Edinburgh","Toulouse",25,29,"Away",NA,NA,0,1
+1999-01-01,"Ulster","Toulouse",29,24,"Home",NA,NA,0,1
+1999-01-01,"Ebbw Vale","Edinburgh",16,43,"Away",NA,NA,0,1
+1999-01-01,"Ulster","Ebbw Vale",43,18,"Home",NA,NA,0,1
+1999-01-01,"Toulouse","Edinburgh",23,11,"Home",NA,NA,0,1
+1999-01-01,"Ebbw Vale","Toulouse",19,11,"Home",NA,NA,0,1
+1999-01-01,"Edinburgh","Ulster",21,23,"Away",NA,NA,0,1
+1999-01-01,"Treviso","Colomiers",19,22,"Away",NA,NA,0,1
+1999-01-01,"Glasgow","Pontypridd",21,43,"Away",NA,NA,0,1
+1999-01-01,"Pontypridd","Colomiers",32,27,"Home",NA,NA,0,1
+1999-01-01,"Treviso","Glasgow",34,15,"Home",NA,NA,0,1
+1999-01-01,"Pontypridd","Treviso",13,22,"Away",NA,NA,0,1
+1999-01-01,"Colomiers","Glasgow",34,16,"Home",NA,NA,0,1
+1999-01-01,"Colomiers","Pontypridd",35,21,"Home",NA,NA,0,1
+1999-01-01,"Glasgow","Treviso",40,27,"Home",NA,NA,0,1
+1999-01-01,"Treviso","Pontypridd",33,19,"Home",NA,NA,0,1
+1999-01-01,"Glasgow","Colomiers",26,17,"Home",NA,NA,0,1
+1999-01-01,"Colomiers","Treviso",41,7,"Home",NA,NA,0,1
+1999-01-01,"Pontypridd","Glasgow",32,3,"Home",NA,NA,0,1
+1999-01-01,"Ulster","Toulouse",15,13,"Home",NA,NA,0,1
+1999-01-01,"Perpignan","Scarlets",34,17,"Home",NA,NA,0,1
+1999-01-01,"Stade Francais","Pontypridd",71,14,"Home",NA,NA,0,1
+1999-01-01,"Colomiers","Munster",23,9,"Home",NA,NA,0,1
+1999-01-01,"Ulster","Stade Francais",33,27,"Home",NA,NA,0,1
+1999-01-01,"Colomiers","Perpignan",10,6,"Home",NA,NA,0,1
+1999-01-01,"Ulster","Colomiers",21,6,"Home",NA,NA,1,1
+2000-01-01,"Leinster","Leicester",27,20,"Home",NA,NA,0,1
+2000-01-01,"Stade Francais","Glasgow",37,18,"Home",NA,NA,0,1
+2000-01-01,"Glasgow","Leinster",29,17,"Home",NA,NA,0,1
+2000-01-01,"Leicester","Stade Francais",30,25,"Home",NA,NA,0,1
+2000-01-01,"Stade Francais","Leinster",39,6,"Home",NA,NA,0,1
+2000-01-01,"Glasgow","Leicester",30,17,"Home",NA,NA,0,1
+2000-01-01,"Leinster","Stade Francais",24,23,"Home",NA,NA,0,1
+2000-01-01,"Leicester","Glasgow",34,21,"Home",NA,NA,0,1
+2000-01-01,"Leinster","Glasgow",44,17,"Home",NA,NA,0,1
+2000-01-01,"Stade Francais","Leicester",38,16,"Home",NA,NA,0,1
+2000-01-01,"Glasgow","Stade Francais",15,30,"Away",NA,NA,0,1
+2000-01-01,"Leicester","Leinster",10,32,"Away",NA,NA,0,1
+2000-01-01,"Swansea","Petrarca",66,19,"Home",NA,NA,0,1
+2000-01-01,"Bath","Toulouse",25,32,"Away",NA,NA,0,1
+2000-01-01,"Petrarca","Bath",15,56,"Away",NA,NA,0,1
+2000-01-01,"Toulouse","Swansea",46,3,"Home",NA,NA,0,1
+2000-01-01,"Swansea","Bath",10,9,"Home",NA,NA,0,1
+2000-01-01,"Petrarca","Toulouse",17,39,"Away",NA,NA,0,1
+2000-01-01,"Toulouse","Petrarca",51,0,"Home",NA,NA,0,1
+2000-01-01,"Bath","Swansea",20,9,"Home",NA,NA,0,1
+2000-01-01,"Swansea","Toulouse",9,18,"Away",NA,NA,0,1
+2000-01-01,"Bath","Petrarca",41,0,"Home",NA,NA,0,1
+2000-01-01,"Petrarca","Swansea",25,29,"Away",NA,NA,0,1
+2000-01-01,"Toulouse","Bath",14,19,"Away",NA,NA,0,1
+2000-01-01,"Bourgoin","Ulster",26,12,"Home",NA,NA,0,1
+2000-01-01,"Wasps","Scarlets",22,13,"Home",NA,NA,0,1
+2000-01-01,"Ulster","Wasps",6,19,"Away",NA,NA,0,1
+2000-01-01,"Scarlets","Bourgoin",29,10,"Home",NA,NA,0,1
+2000-01-01,"Ulster","Scarlets",6,29,"Away",NA,NA,0,1
+2000-01-01,"Bourgoin","Wasps",15,21,"Away",NA,NA,0,1
+2000-01-01,"Scarlets","Ulster",20,3,"Home",NA,NA,0,1
+2000-01-01,"Wasps","Bourgoin",37,23,"Home",NA,NA,0,1
+2000-01-01,"Bourgoin","Scarlets",30,36,"Away",NA,NA,0,1
+2000-01-01,"Wasps","Ulster",49,17,"Home",NA,NA,0,1
+2000-01-01,"Ulster","Bourgoin",27,36,"Away",NA,NA,0,1
+2000-01-01,"Scarlets","Wasps",25,15,"Home",NA,NA,0,1
+2000-01-01,"Munster","Pontypridd",32,10,"Home",NA,NA,0,1
+2000-01-01,"Colomiers","Saracens",19,16,"Home",NA,NA,0,1
+2000-01-01,"Pontypridd","Colomiers",22,14,"Home",NA,NA,0,1
+2000-01-01,"Saracens","Munster",34,35,"Away",NA,NA,0,1
+2000-01-01,"Colomiers","Munster",15,31,"Away",NA,NA,0,1
+2000-01-01,"Saracens","Pontypridd",52,35,"Home",NA,NA,0,1
+2000-01-01,"Pontypridd","Saracens",18,22,"Away",NA,NA,0,1
+2000-01-01,"Munster","Colomiers",23,5,"Home",NA,NA,0,1
+2000-01-01,"Munster","Saracens",31,30,"Home",NA,NA,0,1
+2000-01-01,"Colomiers","Pontypridd",38,21,"Home",NA,NA,0,1
+2000-01-01,"Pontypridd","Munster",38,36,"Home",NA,NA,0,1
+2000-01-01,"Saracens","Colomiers",52,15,"Home",NA,NA,0,1
+2000-01-01,"Cardiff Blues","Harlequins",32,32,"Draw",NA,NA,0,1
+2000-01-01,"Treviso","Montferrand",15,21,"Away",NA,NA,0,1
+2000-01-01,"Harlequins","Treviso",19,22,"Away",NA,NA,0,1
+2000-01-01,"Montferrand","Cardiff Blues",46,13,"Home",NA,NA,0,1
+2000-01-01,"Cardiff Blues","Treviso",23,16,"Home",NA,NA,0,1
+2000-01-01,"Harlequins","Montferrand",11,9,"Home",NA,NA,0,1
+2000-01-01,"Treviso","Cardiff Blues",16,40,"Away",NA,NA,0,1
+2000-01-01,"Montferrand","Harlequins",32,9,"Home",NA,NA,0,1
+2000-01-01,"Treviso","Harlequins",24,23,"Home",NA,NA,0,1
+2000-01-01,"Cardiff Blues","Montferrand",30,5,"Home",NA,NA,0,1
+2000-01-01,"Harlequins","Cardiff Blues",26,30,"Away",NA,NA,0,1
+2000-01-01,"Montferrand","Treviso",41,7,"Home",NA,NA,0,1
+2000-01-01,"Northampton","Neath",21,12,"Home",NA,NA,0,1
+2000-01-01,"Edinburgh","Grenoble",23,18,"Home",NA,NA,0,1
+2000-01-01,"Neath","Edinburgh",20,31,"Away",NA,NA,0,1
+2000-01-01,"Grenoble","Northampton",20,18,"Home",NA,NA,0,1
+2000-01-01,"Neath","Grenoble",43,14,"Home",NA,NA,0,1
+2000-01-01,"Northampton","Edinburgh",32,10,"Home",NA,NA,0,1
+2000-01-01,"Edinburgh","Northampton",8,47,"Away",NA,NA,0,1
+2000-01-01,"Grenoble","Neath",21,10,"Home",NA,NA,0,1
+2000-01-01,"Edinburgh","Neath",23,20,"Home",NA,NA,0,1
+2000-01-01,"Northampton","Grenoble",27,16,"Home",NA,NA,0,1
+2000-01-01,"Neath","Northampton",23,39,"Away",NA,NA,0,1
+2000-01-01,"Grenoble","Edinburgh",21,19,"Home",NA,NA,0,1
+2000-01-01,"Munster","Stade Francais",27,10,"Home",NA,NA,0,1
+2000-01-01,"Scarlets","Cardiff Blues",22,3,"Home",NA,NA,0,1
+2000-01-01,"Toulouse","Montferrand",31,18,"Home",NA,NA,0,1
+2000-01-01,"Northampton","Wasps",25,22,"Home",NA,NA,0,1
+2000-01-01,"Toulouse","Munster",25,31,"Away",NA,NA,0,1
+2000-01-01,"Northampton","Scarlets",31,28,"Home",NA,NA,0,1
+2000-01-01,"Northampton","Munster",9,8,"Home",NA,NA,1,1
+2001-01-01,"Edinburgh","Leinster",29,21,"Home",NA,NA,0,1
+2001-01-01,"Biarritz","Northampton",37,30,"Home",NA,NA,0,1
+2001-01-01,"Leinster","Biarritz",35,9,"Home",NA,NA,0,1
+2001-01-01,"Northampton","Edinburgh",22,23,"Away",NA,NA,0,1
+2001-01-01,"Northampton","Leinster",8,14,"Away",NA,NA,0,1
+2001-01-01,"Biarritz","Edinburgh",29,18,"Home",NA,NA,0,1
+2001-01-01,"Edinburgh","Biarritz",27,35,"Away",NA,NA,0,1
+2001-01-01,"Leinster","Northampton",40,31,"Home",NA,NA,0,1
+2001-01-01,"Leinster","Edinburgh",34,34,"Draw",NA,NA,0,1
+2001-01-01,"Northampton","Biarritz",32,24,"Home",NA,NA,0,1
+2001-01-01,"Edinburgh","Northampton",18,15,"Home",NA,NA,0,1
+2001-01-01,"Biarritz","Leinster",30,10,"Home",NA,NA,0,1
+2001-01-01,"Swansea","Wasps",54,28,"Home",NA,NA,0,1
+2001-01-01,"Stade Francais","L'Aquila",92,7,"Home",NA,NA,0,1
+2001-01-01,"Swansea","Stade Francais",18,16,"Home",NA,NA,0,1
+2001-01-01,"L'Aquila","Wasps",10,39,"Away",NA,NA,0,1
+2001-01-01,"Stade Francais","Wasps",40,10,"Home",NA,NA,0,1
+2001-01-01,"L'Aquila","Swansea",6,70,"Away",NA,NA,0,1
+2001-01-01,"Swansea","L'Aquila",73,3,"Home",NA,NA,0,1
+2001-01-01,"Wasps","Stade Francais",28,31,"Away",NA,NA,0,1
+2001-01-01,"L'Aquila","Stade Francais",9,76,"Away",NA,NA,0,1
+2001-01-01,"Wasps","Swansea",28,16,"Home",NA,NA,0,1
+2001-01-01,"Stade Francais","Swansea",42,13,"Home",NA,NA,0,1
+2001-01-01,"Wasps","L'Aquila",42,5,"Home",NA,NA,0,1
+2001-01-01,"Ulster","Cardiff Blues",32,23,"Home",NA,NA,0,1
+2001-01-01,"Toulouse","Saracens",22,32,"Away",NA,NA,0,1
+2001-01-01,"Cardiff Blues","Toulouse",26,17,"Home",NA,NA,0,1
+2001-01-01,"Saracens","Ulster",55,25,"Home",NA,NA,0,1
+2001-01-01,"Saracens","Cardiff Blues",23,32,"Away",NA,NA,0,1
+2001-01-01,"Toulouse","Ulster",35,35,"Draw",NA,NA,0,1
+2001-01-01,"Cardiff Blues","Saracens",24,14,"Home",NA,NA,0,1
+2001-01-01,"Ulster","Toulouse",25,29,"Away",NA,NA,0,1
+2001-01-01,"Cardiff Blues","Ulster",42,16,"Home",NA,NA,0,1
+2001-01-01,"Saracens","Toulouse",37,30,"Home",NA,NA,0,1
+2001-01-01,"Ulster","Saracens",13,21,"Away",NA,NA,0,1
+2001-01-01,"Toulouse","Cardiff Blues",38,27,"Home",NA,NA,0,1
+2001-01-01,"Munster","Newport",26,18,"Home",NA,NA,0,1
+2001-01-01,"Bath","Castres",25,13,"Home",NA,NA,0,1
+2001-01-01,"Newport","Bath",28,17,"Home",NA,NA,0,1
+2001-01-01,"Castres","Munster",29,32,"Away",NA,NA,0,1
+2001-01-01,"Munster","Bath",31,9,"Home",NA,NA,0,1
+2001-01-01,"Newport","Castres",21,20,"Home",NA,NA,0,1
+2001-01-01,"Bath","Munster",18,5,"Home",NA,NA,0,1
+2001-01-01,"Castres","Newport",43,21,"Home",NA,NA,0,1
+2001-01-01,"Castres","Bath",19,32,"Away",NA,NA,0,1
+2001-01-01,"Newport","Munster",24,39,"Away",NA,NA,0,1
+2001-01-01,"Munster","Castres",21,11,"Home",NA,NA,0,1
+2001-01-01,"Bath","Newport",38,10,"Home",NA,NA,0,1
+2001-01-01,"Scarlets","Gloucester",20,27,"Away",NA,NA,0,1
+2001-01-01,"Roma","Colomiers",5,14,"Away",NA,NA,0,1
+2001-01-01,"Colomiers","Scarlets",6,19,"Away",NA,NA,0,1
+2001-01-01,"Gloucester","Roma",52,12,"Home",NA,NA,0,1
+2001-01-01,"Scarlets","Roma",46,0,"Home",NA,NA,0,1
+2001-01-01,"Gloucester","Colomiers",22,22,"Draw",NA,NA,0,1
+2001-01-01,"Colomiers","Gloucester",30,19,"Home",NA,NA,0,1
+2001-01-01,"Roma","Scarlets",21,41,"Away",NA,NA,0,1
+2001-01-01,"Gloucester","Scarlets",28,27,"Home",NA,NA,0,1
+2001-01-01,"Colomiers","Roma",55,21,"Home",NA,NA,0,1
+2001-01-01,"Scarlets","Colomiers",34,21,"Home",NA,NA,0,1
+2001-01-01,"Roma","Gloucester",29,38,"Away",NA,NA,0,1
+2001-01-01,"Pontypridd","Glasgow",40,25,"Home",NA,NA,0,1
+2001-01-01,"Leicester","Pau",46,18,"Home",NA,NA,0,1
+2001-01-01,"Pau","Pontypridd",12,9,"Home",NA,NA,0,1
+2001-01-01,"Glasgow","Leicester",21,33,"Away",NA,NA,0,1
+2001-01-01,"Pontypridd","Leicester",18,11,"Home",NA,NA,0,1
+2001-01-01,"Glasgow","Pau",24,46,"Away",NA,NA,0,1
+2001-01-01,"Pau","Glasgow",44,16,"Home",NA,NA,0,1
+2001-01-01,"Leicester","Pontypridd",27,19,"Home",NA,NA,0,1
+2001-01-01,"Pau","Leicester",3,20,"Away",NA,NA,0,1
+2001-01-01,"Glasgow","Pontypridd",25,23,"Home",NA,NA,0,1
+2001-01-01,"Leicester","Glasgow",41,26,"Home",NA,NA,0,1
+2001-01-01,"Pontypridd","Pau",27,31,"Away",NA,NA,0,1
+2001-01-01,"Gloucester","Cardiff Blues",21,15,"Home",NA,NA,0,1
+2001-01-01,"Stade Francais","Pau",36,19,"Home",NA,NA,0,1
+2001-01-01,"Leicester","Swansea",41,10,"Home",NA,NA,0,1
+2001-01-01,"Munster","Biarritz",38,29,"Home",NA,NA,0,1
+2001-01-01,"Stade Francais","Munster",16,15,"Home",NA,NA,0,1
+2001-01-01,"Leicester","Gloucester",19,15,"Home",NA,NA,0,1
+2001-01-01,"Stade Francais","Leicester",30,34,"Away",NA,NA,1,1
+2001-09-28,"Cardiff Blues","Northampton",25,17,"Home",NA,NA,0,1
+2001-09-28,"Glasgow","Montferrand",19,19,"Draw",NA,NA,0,1
+2001-09-28,"Leinster","Toulouse",40,10,"Home",NA,NA,0,1
+2001-09-29,"Biarritz","Bath",6,14,"Away",NA,NA,0,1
+2001-09-29,"Bridgend","Harlequins",24,30,"Away",NA,NA,0,1
+2001-09-29,"Leicester","Scarlets",12,9,"Home",NA,NA,0,1
+2001-09-29,"Munster","Castres",28,23,"Home",NA,NA,0,1
+2001-09-29,"Newcastle","Newport",21,34,"Away",NA,NA,0,1
+2001-09-29,"Perpignan","Calvisano",56,3,"Home",NA,NA,0,1
+2001-09-29,"Swansea","Edinburgh",21,16,"Home",NA,NA,0,1
+2001-09-29,"Treviso","Ulster",28,33,"Away",NA,NA,0,1
+2001-09-30,"Wasps","Stade Francais",19,25,"Away",NA,NA,0,1
+2001-10-05,"Edinburgh","Biarritz",6,6,"Draw",NA,NA,0,1
+2001-10-05,"Leinster","Newcastle",28,9,"Home",NA,NA,0,1
+2001-10-05,"Scarlets","Perpignan",20,6,"Home",NA,NA,0,1
+2001-10-05,"Ulster","Wasps",42,19,"Home",NA,NA,0,1
+2001-10-06,"Bath","Swansea",38,9,"Home",NA,NA,0,1
+2001-10-06,"Castres","Bridgend",35,23,"Home",NA,NA,0,1
+2001-10-06,"Harlequins","Munster",8,24,"Away",NA,NA,0,1
+2001-10-06,"Montferrand","Cardiff Blues",37,10,"Home",NA,NA,0,1
+2001-10-06,"Newport","Toulouse",21,20,"Home",NA,NA,0,1
+2001-10-06,"Stade Francais","Treviso",42,9,"Home",NA,NA,0,1
+2001-10-07,"Calvisano","Leicester",3,37,"Away",NA,NA,0,1
+2001-10-07,"Northampton","Glasgow",30,9,"Home",NA,NA,0,1
+2001-10-26,"Bridgend","Munster",12,16,"Away",NA,NA,0,1
+2001-10-26,"Leinster","Newport",21,6,"Home",NA,NA,0,1
+2001-10-27,"Cardiff Blues","Glasgow",46,7,"Home",NA,NA,0,1
+2001-10-27,"Edinburgh","Bath",6,37,"Away",NA,NA,0,1
+2001-10-27,"Northampton","Montferrand",15,21,"Away",NA,NA,0,1
+2001-10-27,"Perpignan","Leicester",30,31,"Away",NA,NA,0,1
+2001-10-27,"Stade Francais","Ulster",40,11,"Home",NA,NA,0,1
+2001-10-27,"Swansea","Biarritz",15,10,"Home",NA,NA,0,1
+2001-10-28,"Calvisano","Scarlets",13,31,"Away",NA,NA,0,1
+2001-10-28,"Harlequins","Castres",17,39,"Away",NA,NA,0,1
+2001-10-28,"Toulouse","Newcastle",33,13,"Home",NA,NA,0,1
+2001-10-28,"Wasps","Treviso",29,24,"Home",NA,NA,0,1
+2001-11-02,"Newport","Leinster",21,26,"Away",NA,NA,0,1
+2001-11-02,"Ulster","Stade Francais",19,16,"Home",NA,NA,0,1
+2001-11-03,"Bath","Edinburgh",17,10,"Home",NA,NA,0,1
+2001-11-03,"Biarritz","Swansea",24,15,"Home",NA,NA,0,1
+2001-11-03,"Castres","Harlequins",24,18,"Home",NA,NA,0,1
+2001-11-03,"Leicester","Perpignan",54,15,"Home",NA,NA,0,1
+2001-11-03,"Montferrand","Northampton",50,17,"Home",NA,NA,0,1
+2001-11-03,"Munster","Bridgend",40,6,"Home",NA,NA,0,1
+2001-11-03,"Newcastle","Toulouse",42,9,"Home",NA,NA,0,1
+2001-11-03,"Scarlets","Calvisano",93,14,"Home",NA,NA,0,1
+2001-11-03,"Treviso","Wasps",32,17,"Home",NA,NA,0,1
+2001-11-04,"Glasgow","Cardiff Blues",47,32,"Home",NA,NA,0,1
+2002-01-04,"Glasgow","Northampton",31,27,"Home",NA,NA,0,1
+2002-01-04,"Perpignan","Scarlets",42,10,"Home",NA,NA,0,1
+2002-01-05,"Biarritz","Edinburgh",45,14,"Home",NA,NA,0,1
+2002-01-05,"Bridgend","Castres",26,37,"Away",NA,NA,0,1
+2002-01-05,"Cardiff Blues","Montferrand",26,20,"Home",NA,NA,0,1
+2002-01-05,"Leicester","Calvisano",29,7,"Home",NA,NA,0,1
+2002-01-05,"Munster","Harlequins",51,17,"Home",NA,NA,0,1
+2002-01-05,"Swansea","Bath",12,24,"Away",NA,NA,0,1
+2002-01-05,"Toulouse","Newport",36,23,"Home",NA,NA,0,1
+2002-01-05,"Treviso","Stade Francais",6,59,"Away",NA,NA,0,1
+2002-01-06,"Wasps","Ulster",36,32,"Home",NA,NA,0,1
+2002-01-08,"Newcastle","Leinster",15,17,"Away",NA,NA,0,1
+2002-01-11,"Edinburgh","Swansea",30,20,"Home",NA,NA,0,1
+2002-01-11,"Newport","Newcastle",53,17,"Home",NA,NA,0,1
+2002-01-11,"Ulster","Treviso",59,3,"Home",NA,NA,0,1
+2002-01-12,"Bath","Biarritz",31,13,"Home",NA,NA,0,1
+2002-01-12,"Calvisano","Perpignan",18,33,"Away",NA,NA,0,1
+2002-01-12,"Castres","Munster",21,13,"Home",NA,NA,0,1
+2002-01-12,"Harlequins","Bridgend",29,25,"Home",NA,NA,0,1
+2002-01-12,"Northampton","Cardiff Blues",26,15,"Home",NA,NA,0,1
+2002-01-12,"Scarlets","Leicester",24,12,"Home",NA,NA,0,1
+2002-01-12,"Stade Francais","Wasps",31,0,"Home",NA,NA,0,1
+2002-01-13,"Montferrand","Glasgow",44,13,"Home",NA,NA,0,1
+2002-01-13,"Toulouse","Leinster",43,7,"Home",NA,NA,0,1
+2002-01-26,"Bath","Scarlets",10,27,"Away",NA,NA,0,1
+2002-01-26,"Castres","Montferrand",22,21,"Home",NA,NA,0,1
+2002-01-26,"Stade Francais","Munster",14,16,"Away",NA,NA,0,1
+2002-01-27,"Leicester","Leinster",29,18,"Home",NA,NA,0,1
+2002-04-27,"Castres","Munster",17,25,"Away",NA,NA,0,1
+2002-04-28,"Leicester","Scarlets",13,12,"Home",NA,NA,0,1
+2002-05-25,"Leicester","Munster",15,9,"Home",NA,NA,1,1
+2002-10-11,"Edinburgh","Newport",27,17,"Home",NA,NA,0,1
+2002-10-11,"Leinster","Bristol",29,23,"Home",NA,NA,0,1
+2002-10-11,"Neath","Leicester",16,16,"Draw",NA,NA,0,1
+2002-10-11,"Sale Sharks","Bourgoin",18,24,"Away",NA,NA,0,1
+2002-10-12,"Calvisano","Beziers",16,32,"Away",NA,NA,0,1
+2002-10-12,"Cardiff Blues","Biarritz",15,26,"Away",NA,NA,0,1
+2002-10-12,"Gloucester","Munster",35,16,"Home",NA,NA,0,1
+2002-10-12,"Montferrand","Swansea",47,12,"Home",NA,NA,0,1
+2002-10-12,"Perpignan","Viadana",46,27,"Home",NA,NA,0,1
+2002-10-12,"Scarlets","Glasgow",45,15,"Home",NA,NA,0,1
+2002-10-12,"Toulouse","London Irish",28,23,"Home",NA,NA,0,1
+2002-10-13,"Northampton","Ulster",32,9,"Home",NA,NA,0,1
+2002-10-14,"Viadana","Munster",22,25,"Away",NA,NA,0,1
+2002-10-18,"Bourgoin","Scarlets",54,38,"Home",NA,NA,0,1
+2002-10-18,"Glasgow","Sale Sharks",26,14,"Home",NA,NA,0,1
+2002-10-18,"Newport","Toulouse",19,34,"Away",NA,NA,0,1
+2002-10-18,"Ulster","Cardiff Blues",25,6,"Home",NA,NA,0,1
+2002-10-18,"Viadana","Gloucester",28,80,"Away",NA,NA,0,1
+2002-10-19,"Beziers","Neath",21,16,"Home",NA,NA,0,1
+2002-10-19,"Biarritz","Northampton",23,20,"Home",NA,NA,0,1
+2002-10-19,"Bristol","Montferrand",24,19,"Home",NA,NA,0,1
+2002-10-19,"Leicester","Calvisano",63,0,"Home",NA,NA,0,1
+2002-10-19,"Munster","Perpignan",30,21,"Home",NA,NA,0,1
+2002-10-19,"Swansea","Leinster",10,51,"Away",NA,NA,0,1
+2002-10-20,"London Irish","Edinburgh",24,8,"Home",NA,NA,0,1
+2002-12-06,"Edinburgh","Toulouse",9,30,"Away",NA,NA,0,1
+2002-12-06,"Munster","Viadana",64,0,"Home",NA,NA,0,1
+2002-12-06,"Sale Sharks","Scarlets",19,30,"Away",NA,NA,0,1
+2002-12-06,"Ulster","Biarritz",13,9,"Home",NA,NA,0,1
+2002-12-07,"Calvisano","Neath",38,29,"Home",NA,NA,0,1
+2002-12-07,"Montferrand","Leinster",20,23,"Away",NA,NA,0,1
+2002-12-07,"Newport","London Irish",16,12,"Home",NA,NA,0,1
+2002-12-07,"Northampton","Cardiff Blues",25,11,"Home",NA,NA,0,1
+2002-12-07,"Swansea","Bristol",26,19,"Home",NA,NA,0,1
+2002-12-08,"Beziers","Leicester",12,24,"Away",NA,NA,0,1
+2002-12-08,"Bourgoin","Glasgow",35,21,"Home",NA,NA,0,1
+2002-12-08,"Gloucester","Perpignan",33,16,"Home",NA,NA,0,1
+2002-12-13,"Glasgow","Bourgoin",13,12,"Home",NA,NA,0,1
+2002-12-13,"Leinster","Montferrand",12,9,"Home",NA,NA,0,1
+2002-12-13,"Scarlets","Sale Sharks",17,12,"Home",NA,NA,0,1
+2002-12-14,"Biarritz","Ulster",25,20,"Home",NA,NA,0,1
+2002-12-14,"Leicester","Beziers",53,10,"Home",NA,NA,0,1
+2002-12-14,"Neath","Calvisano",56,10,"Home",NA,NA,0,1
+2002-12-14,"Perpignan","Gloucester",31,23,"Home",NA,NA,0,1
+2002-12-14,"Toulouse","Edinburgh",50,17,"Home",NA,NA,0,1
+2002-12-15,"Bristol","Swansea",41,23,"Home",NA,NA,0,1
+2002-12-15,"Cardiff Blues","Northampton",0,31,"Away",NA,NA,0,1
+2002-12-15,"London Irish","Newport",42,5,"Home",NA,NA,0,1
+2003-01-10,"Edinburgh","London Irish",32,25,"Home",NA,NA,0,1
+2003-01-10,"Leinster","Swansea",48,19,"Home",NA,NA,0,1
+2003-01-10,"Sale Sharks","Glasgow",45,3,"Home",NA,NA,0,1
+2003-01-10,"Scarlets","Bourgoin",37,22,"Home",NA,NA,0,1
+2003-01-11,"Calvisano","Leicester",22,40,"Away",NA,NA,0,1
+2003-01-11,"Cardiff Blues","Ulster",21,33,"Away",NA,NA,0,1
+2003-01-11,"Gloucester","Viadana",64,16,"Home",NA,NA,0,1
+2003-01-11,"Northampton","Biarritz",17,14,"Home",NA,NA,0,1
+2003-01-11,"Perpignan","Munster",23,8,"Home",NA,NA,0,1
+2003-01-11,"Toulouse","Newport",70,18,"Home",NA,NA,0,1
+2003-01-12,"Montferrand","Bristol",22,30,"Away",NA,NA,0,1
+2003-01-13,"Neath","Beziers",23,18,"Home",NA,NA,0,1
+2003-01-17,"Glasgow","Scarlets",8,34,"Away",NA,NA,0,1
+2003-01-17,"Ulster","Northampton",16,13,"Home",NA,NA,0,1
+2003-01-18,"Beziers","Calvisano",16,19,"Away",NA,NA,0,1
+2003-01-18,"Biarritz","Cardiff Blues",75,25,"Home",NA,NA,0,1
+2003-01-18,"Burgoin","Sale Sharks",43,15,"Home",NA,NA,0,1
+2003-01-18,"Leicester","Neath",36,11,"Home",NA,NA,0,1
+2003-01-18,"Munster","Gloucester",33,6,"Home",NA,NA,0,1
+2003-01-18,"Newport","Edinburgh",42,32,"Home",NA,NA,0,1
+2003-01-18,"Swansea","Montferrand",19,24,"Away",NA,NA,0,1
+2003-01-18,"Viadana","Perpignan",35,39,"Away",NA,NA,0,1
+2003-01-19,"Bristol","Leinster",12,25,"Away",NA,NA,0,1
+2003-01-19,"London Irish","Toulouse",32,29,"Home",NA,NA,0,1
+2003-04-12,"Leinster","Biarritz",18,13,"Home",NA,NA,0,1
+2003-04-12,"Toulouse","Northampton",32,16,"Home",NA,NA,0,1
+2003-04-13,"Leicester","Munster",7,20,"Away",NA,NA,0,1
+2003-04-16,"Scarlets","Perpignan",19,26,"Away",NA,NA,0,1
+2003-04-26,"Toulouse","Munster",13,12,"Home",NA,NA,0,1
+2003-04-27,"Leinster","Perpignan",14,21,"Away",NA,NA,0,1
+2003-05-24,"Toulouse","Perpignan",22,17,"Home",NA,NA,1,1
+2003-12-05,"Celtic Warriors","Calvisano",34,25,"Home",NA,NA,0,1
+2003-12-05,"Scarlets","Northampton",14,9,"Home",NA,NA,0,1
+2003-12-05,"Stade Francais","Leicester",26,15,"Home",NA,NA,0,1
+2003-12-06,"Agen","Borders",27,8,"Home",NA,NA,0,1
+2003-12-06,"Bourgoin","Munster",17,18,"Away",NA,NA,0,1
+2003-12-06,"Leinster","Biarritz",32,6,"Home",NA,NA,0,1
+2003-12-06,"Sale Sharks","Cardiff Blues",26,24,"Home",NA,NA,0,1
+2003-12-06,"Treviso","Gloucester",12,33,"Away",NA,NA,0,1
+2003-12-07,"Dragons","Ulster",24,15,"Home",NA,NA,0,1
+2003-12-07,"Edinburgh","Toulouse",23,16,"Home",NA,NA,0,1
+2003-12-07,"Leeds Tykes","Ospreys",29,20,"Home",NA,NA,0,1
+2003-12-07,"Wasps","Perpignan",28,7,"Home",NA,NA,0,1
+2003-12-12,"Cardiff Blues","Leinster",19,24,"Away",NA,NA,0,1
+2003-12-12,"Ospreys","Edinburgh",16,32,"Away",NA,NA,0,1
+2003-12-12,"Toulouse","Leeds Tykes",19,3,"Home",NA,NA,0,1
+2003-12-12,"Ulster","Stade Francais",22,20,"Home",NA,NA,0,1
+2003-12-13,"Biarritz","Sale Sharks",31,3,"Home",NA,NA,0,1
+2003-12-13,"Calvisano","Wasps",33,52,"Away",NA,NA,0,1
+2003-12-13,"Gloucester","Bourgoin",49,13,"Home",NA,NA,0,1
+2003-12-13,"Munster","Treviso",51,0,"Home",NA,NA,0,1
+2003-12-13,"Northampton","Agen",25,10,"Home",NA,NA,0,1
+2003-12-13,"Perpignan","Celtic Warriors",26,19,"Home",NA,NA,0,1
+2003-12-14,"Borders","Scarlets",10,41,"Away",NA,NA,0,1
+2003-12-14,"Leicester","Dragons",34,3,"Home",NA,NA,0,1
+2004-01-09,"Edinburgh","Leeds Tykes",19,9,"Home",NA,NA,0,1
+2004-01-09,"Leinster","Sale Sharks",22,23,"Away",NA,NA,0,1
+2004-01-09,"Scarlets","Agen",19,15,"Home",NA,NA,0,1
+2004-01-10,"Biarritz","Cardiff Blues",35,20,"Home",NA,NA,0,1
+2004-01-10,"Dragons","Stade Francais",20,12,"Home",NA,NA,0,1
+2004-01-10,"Gloucester","Munster",22,11,"Home",NA,NA,0,1
+2004-01-10,"Northampton","Borders",20,3,"Home",NA,NA,0,1
+2004-01-10,"Perpignan","Calvisano",48,7,"Home",NA,NA,0,1
+2004-01-10,"Toulouse","Ospreys",29,6,"Home",NA,NA,0,1
+2004-01-10,"Treviso","Bourgoin",42,33,"Home",NA,NA,0,1
+2004-01-11,"Ulster","Leicester",33,0,"Home",NA,NA,0,1
+2004-01-11,"Wasps","Celtic Warriors",9,14,"Away",NA,NA,0,1
+2004-01-16,"Borders","Northampton",3,39,"Away",NA,NA,0,1
+2004-01-16,"Celtic Warriors","Wasps",12,17,"Away",NA,NA,0,1
+2004-01-16,"Ospreys","Toulouse",11,29,"Away",NA,NA,0,1
+2004-01-17,"Agen","Scarlets",22,15,"Home",NA,NA,0,1
+2004-01-17,"Calvisano","Perpignan",11,17,"Away",NA,NA,0,1
+2004-01-17,"Cardiff Blues","Biarritz",21,20,"Home",NA,NA,0,1
+2004-01-17,"Leicester","Ulster",49,7,"Home",NA,NA,0,1
+2004-01-17,"Munster","Gloucester",35,14,"Home",NA,NA,0,1
+2004-01-18,"Bourgoin","Treviso",35,19,"Home",NA,NA,0,1
+2004-01-18,"Leeds Tykes","Edinburgh",0,23,"Away",NA,NA,0,1
+2004-01-18,"Sale Sharks","Leinster",16,23,"Away",NA,NA,0,1
+2004-01-18,"Stade Francais","Dragons",37,0,"Home",NA,NA,0,1
+2004-01-21,"Bourgoin","Gloucester",18,37,"Away",NA,NA,0,1
+2004-01-23,"Agen","Northampton",6,19,"Away",NA,NA,0,1
+2004-01-23,"Celtic Warriors","Perpignan",16,15,"Home",NA,NA,0,1
+2004-01-23,"Edinburgh","Ospreys",33,15,"Home",NA,NA,0,1
+2004-01-23,"Leinster","Cardiff Blues",20,17,"Home",NA,NA,0,1
+2004-01-24,"Dragons","Leicester",20,26,"Away",NA,NA,0,1
+2004-01-24,"Scarlets","Borders",53,7,"Home",NA,NA,0,1
+2004-01-24,"Stade Francais","Ulster",13,10,"Home",NA,NA,0,1
+2004-01-24,"Treviso","Munster",20,31,"Away",NA,NA,0,1
+2004-01-25,"Leeds Tykes","Toulouse",22,31,"Away",NA,NA,0,1
+2004-01-25,"Sale Sharks","Biarritz",0,15,"Away",NA,NA,0,1
+2004-01-25,"Wasps","Calvisano",46,13,"Home",NA,NA,0,1
+2004-01-30,"Leicester","Stade Francais",13,26,"Away",NA,NA,0,1
+2004-01-30,"Ulster","Dragons",22,0,"Home",NA,NA,0,1
+2004-01-31,"Biarritz","Leinster",32,21,"Home",NA,NA,0,1
+2004-01-31,"Cardiff Blues","Sale Sharks",22,7,"Home",NA,NA,0,1
+2004-01-31,"Gloucester","Treviso",42,11,"Home",NA,NA,0,1
+2004-01-31,"Munster","Bourgoin",26,3,"Home",NA,NA,0,1
+2004-01-31,"Ospreys","Leeds Tykes",10,3,"Home",NA,NA,0,1
+2004-01-31,"Toulouse","Edinburgh",33,0,"Home",NA,NA,0,1
+2004-02-01,"Borders","Agen",8,3,"Home",NA,NA,0,1
+2004-02-01,"Calvisano","Celtic Warriors",26,28,"Away",NA,NA,0,1
+2004-02-01,"Northampton","Scarlets",9,18,"Away",NA,NA,0,1
+2004-02-01,"Perpignan","Wasps",6,34,"Away",NA,NA,0,1
+2004-04-04,"Scarlets","Biarritz",10,27,"Away",NA,NA,0,1
+2004-04-10,"Munster","Stade Francais",37,32,"Home",NA,NA,0,1
+2004-04-10,"Toulouse","Edinburgh",36,10,"Home",NA,NA,0,1
+2004-04-11,"Wasps","Gloucester",34,3,"Home",NA,NA,0,1
+2004-04-24,"Toulouse","Biarritz",19,11,"Home",NA,NA,0,1
+2004-04-25,"Munster","Wasps",32,37,"Away",NA,NA,0,1
+2004-05-23,"Wasps","Toulouse",27,20,"Home",NA,NA,1,1
+2004-10-22,"Perpignan","Edinburgh",23,0,"Home",NA,NA,0,1
+2004-10-22,"Scarlets","Toulouse",6,9,"Away",NA,NA,0,1
+2004-10-22,"Ulster","Cardiff Blues",21,16,"Home",NA,NA,0,1
+2004-10-23,"Castres","Ospreys",38,17,"Home",NA,NA,0,1
+2004-10-23,"Dragons","Newcastle",6,10,"Away",NA,NA,0,1
+2004-10-23,"Leicester","Calvisano",37,6,"Home",NA,NA,0,1
+2004-10-23,"Munster","Harlequins",15,9,"Home",NA,NA,0,1
+2004-10-23,"Stade Francais","Gloucester",39,31,"Home",NA,NA,0,1
+2004-10-23,"Treviso","Leinster",9,25,"Away",NA,NA,0,1
+2004-10-24,"Glasgow","Northampton",9,13,"Away",NA,NA,0,1
+2004-10-24,"Wasps","Biarritz",25,12,"Home",NA,NA,0,1
+2004-10-26,"Bath","Bourgoin",22,12,"Home",NA,NA,0,1
+2004-10-29,"Bourgoin","Treviso",0,34,"Away",NA,NA,0,1
+2004-10-29,"Cardiff Blues","Stade Francais",15,38,"Away",NA,NA,0,1
+2004-10-29,"Toulouse","Glasgow",43,17,"Home",NA,NA,0,1
+2004-10-30,"Biarritz","Leicester",23,8,"Home",NA,NA,0,1
+2004-10-30,"Calvisano","Wasps",22,31,"Away",NA,NA,0,1
+2004-10-30,"Gloucester","Ulster",55,13,"Home",NA,NA,0,1
+2004-10-30,"Harlequins","Castres",23,23,"Draw",NA,NA,0,1
+2004-10-30,"Leinster","Bath",30,11,"Home",NA,NA,0,1
+2004-10-30,"Northampton","Scarlets",25,3,"Home",NA,NA,0,1
+2004-10-31,"Edinburgh","Dragons",13,17,"Away",NA,NA,0,1
+2004-10-31,"Newcastle","Perpignan",19,14,"Home",NA,NA,0,1
+2004-10-31,"Ospreys","Munster",18,20,"Away",NA,NA,0,1
+2004-12-03,"Castres","Munster",19,12,"Home",NA,NA,0,1
+2004-12-04,"Biarritz","Calvisano",41,10,"Home",NA,NA,0,1
+2004-12-04,"Dragons","Perpignan",27,14,"Home",NA,NA,0,1
+2004-12-04,"Gloucester","Cardiff Blues",23,19,"Home",NA,NA,0,1
+2004-12-04,"Leinster","Bourgoin",92,17,"Home",NA,NA,0,1
+2004-12-04,"Northampton","Toulouse",23,21,"Home",NA,NA,0,1
+2004-12-04,"Stade Francais","Ulster",30,10,"Home",NA,NA,0,1
+2004-12-04,"Treviso","Bath",29,23,"Home",NA,NA,0,1
+2004-12-05,"Glasgow","Scarlets",26,29,"Away",NA,NA,0,1
+2004-12-05,"Newcastle","Edinburgh",34,24,"Home",NA,NA,0,1
+2004-12-05,"Ospreys","Harlequins",24,7,"Home",NA,NA,0,1
+2004-12-05,"Wasps","Leicester",31,37,"Away",NA,NA,0,1
+2004-12-10,"Bourgoin","Leinster",23,26,"Away",NA,NA,0,1
+2004-12-11,"Bath","Treviso",47,7,"Home",NA,NA,0,1
+2004-12-11,"Calvisano","Biarritz",17,48,"Away",NA,NA,0,1
+2004-12-11,"Cardiff Blues","Gloucester",16,23,"Away",NA,NA,0,1
+2004-12-11,"Edinburgh","Newcastle",10,13,"Away",NA,NA,0,1
+2004-12-11,"Harlequins","Ospreys",19,46,"Away",NA,NA,0,1
+2004-12-11,"Munster","Castres",36,8,"Home",NA,NA,0,1
+2004-12-11,"Perpignan","Dragons",32,9,"Home",NA,NA,0,1
+2004-12-11,"Toulouse","Northampton",25,12,"Home",NA,NA,0,1
+2004-12-11,"Ulster","Stade Francais",18,10,"Home",NA,NA,0,1
+2004-12-12,"Leicester","Wasps",35,27,"Home",NA,NA,0,1
+2004-12-12,"Scarlets","Glasgow",38,22,"Home",NA,NA,0,1
+2005-01-07,"Glasgow","Toulouse",10,30,"Away",NA,NA,0,1
+2005-01-07,"Stade Francais","Cardiff Blues",35,16,"Home",NA,NA,0,1
+2005-01-07,"Ulster","Gloucester",14,12,"Home",NA,NA,0,1
+2005-01-08,"Bath","Leinster",23,27,"Away",NA,NA,0,1
+2005-01-08,"Castres","Harlequins",58,13,"Home",NA,NA,0,1
+2005-01-08,"Dragons","Edinburgh",48,5,"Home",NA,NA,0,1
+2005-01-08,"Munster","Ospreys",20,10,"Home",NA,NA,0,1
+2005-01-08,"Perpignan","Newcastle",33,12,"Home",NA,NA,0,1
+2005-01-08,"Treviso","Bourgoin",40,29,"Home",NA,NA,0,1
+2005-01-09,"Leicester","Biarritz",17,21,"Away",NA,NA,0,1
+2005-01-09,"Scarlets","Northampton",20,22,"Away",NA,NA,0,1
+2005-01-09,"Wasps","Calvisano",45,14,"Home",NA,NA,0,1
+2005-01-14,"Northampton","Glasgow",33,23,"Home",NA,NA,0,1
+2005-01-14,"Toulouse","Scarlets",53,36,"Home",NA,NA,0,1
+2005-01-15,"Biarritz","Wasps",18,15,"Home",NA,NA,0,1
+2005-01-15,"Bourgoin","Bath",17,23,"Away",NA,NA,0,1
+2005-01-15,"Calvisano","Leicester",10,62,"Away",NA,NA,0,1
+2005-01-15,"Harlequins","Munster",10,18,"Away",NA,NA,0,1
+2005-01-15,"Leinster","Treviso",57,17,"Home",NA,NA,0,1
+2005-01-15,"Ospreys","Castres",20,11,"Home",NA,NA,0,1
+2005-01-16,"Cardiff Blues","Ulster",16,12,"Home",NA,NA,0,1
+2005-01-16,"Edinburgh","Perpignan",40,17,"Home",NA,NA,0,1
+2005-01-16,"Gloucester","Stade Francais",0,27,"Away",NA,NA,0,1
+2005-01-16,"Newcastle","Dragons",25,17,"Home",NA,NA,0,1
+2005-04-01,"Toulouse","Northampton",37,9,"Home",NA,NA,0,1
+2005-04-02,"Leinster","Leicester",13,29,"Away",NA,NA,0,1
+2005-04-02,"Stade Francais","Newcastle",48,8,"Home",NA,NA,0,1
+2005-04-03,"Biarritz","Munster",19,10,"Home",NA,NA,0,1
+2005-04-23,"Stade Francais","Biarritz",20,17,"Home",NA,NA,0,1
+2005-04-24,"Leicester","Toulouse",19,27,"Away",NA,NA,0,1
+2005-05-22,"Stade Francais","Toulouse",12,18,"Away",NA,NA,1,1
+2005-10-21,"Bourgoin","Glasgow",16,3,"Home",NA,NA,0,1
+2005-10-21,"Sale Sharks","Munster",27,13,"Home",NA,NA,0,1
+2005-10-21,"Ulster","Treviso",27,0,"Home",NA,NA,0,1
+2005-10-22,"Calvisano","Perpignan",6,25,"Away",NA,NA,0,1
+2005-10-22,"Cardiff Blues","Leeds Tykes",40,13,"Home",NA,NA,0,1
+2005-10-22,"Castres","Dragons",29,24,"Home",NA,NA,0,1
+2005-10-22,"Leicester","Clermont Auvergne",57,23,"Home",NA,NA,0,1
+2005-10-22,"Leinster","Bath",19,22,"Away",NA,NA,0,1
+2005-10-22,"Toulouse","Scarlets",50,28,"Home",NA,NA,0,1
+2005-10-23,"Edinburgh","Wasps",32,31,"Home",NA,NA,0,1
+2005-10-23,"Ospreys","Stade Francais",13,8,"Home",NA,NA,0,1
+2005-10-23,"Saracens","Biarritz",22,10,"Home",NA,NA,0,1
+2005-10-28,"Dragons","Sale Sharks",11,38,"Away",NA,NA,0,1
+2005-10-28,"Leeds Tykes","Calvisano",33,16,"Home",NA,NA,0,1
+2005-10-28,"Perpignan","Cardiff Blues",37,14,"Home",NA,NA,0,1
+2005-10-29,"Bath","Bourgoin",39,12,"Home",NA,NA,0,1
+2005-10-29,"Biarritz","Ulster",33,19,"Home",NA,NA,0,1
+2005-10-29,"Munster","Castres",42,16,"Home",NA,NA,0,1
+2005-10-29,"Scarlets","Edinburgh",15,13,"Home",NA,NA,0,1
+2005-10-29,"Stade Francais","Leicester",12,6,"Home",NA,NA,0,1
+2005-10-29,"Treviso","Saracens",17,30,"Away",NA,NA,0,1
+2005-10-30,"Clermont Auvergne","Ospreys",34,14,"Home",NA,NA,0,1
+2005-10-30,"Glasgow","Leinster",20,33,"Away",NA,NA,0,1
+2005-10-30,"Wasps","Toulouse",15,15,"Draw",NA,NA,0,1
+2005-12-09,"Castres","Sale Sharks",16,20,"Away",NA,NA,0,1
+2005-12-09,"Ulster","Saracens",19,10,"Home",NA,NA,0,1
+2005-12-10,"Bath","Glasgow",31,26,"Home",NA,NA,0,1
+2005-12-10,"Calvisano","Cardiff Blues",10,25,"Away",NA,NA,0,1
+2005-12-10,"Clermont Auvergne","Stade Francais",12,16,"Away",NA,NA,0,1
+2005-12-10,"Dragons","Munster",8,24,"Away",NA,NA,0,1
+2005-12-10,"Edinburgh","Toulouse",13,20,"Away",NA,NA,0,1
+2005-12-10,"Leinster","Bourgoin",53,7,"Home",NA,NA,0,1
+2005-12-11,"Biarritz","Treviso",34,7,"Home",NA,NA,0,1
+2005-12-11,"Leeds Tykes","Perpignan",21,20,"Home",NA,NA,0,1
+2005-12-11,"Leicester","Ospreys",30,12,"Home",NA,NA,0,1
+2005-12-11,"Scarlets","Wasps",21,13,"Home",NA,NA,0,1
+2005-12-16,"Glasgow","Bath",10,29,"Away",NA,NA,0,1
+2005-12-16,"Sale Sharks","Castres",35,3,"Home",NA,NA,0,1
+2005-12-16,"Toulouse","Edinburgh",35,13,"Home",NA,NA,0,1
+2005-12-17,"Bourgoin","Leinster",30,28,"Home",NA,NA,0,1
+2005-12-17,"Cardiff Blues","Calvisano",43,16,"Home",NA,NA,0,1
+2005-12-17,"Munster","Dragons",30,18,"Home",NA,NA,0,1
+2005-12-17,"Perpignan","Leeds Tykes",12,8,"Home",NA,NA,0,1
+2005-12-17,"Saracens","Ulster",18,10,"Home",NA,NA,0,1
+2005-12-17,"Stade Francais","Clermont Auvergne",47,28,"Home",NA,NA,0,1
+2005-12-17,"Treviso","Biarritz",24,38,"Away",NA,NA,0,1
+2005-12-18,"Ospreys","Leicester",15,17,"Away",NA,NA,0,1
+2005-12-18,"Wasps","Scarlets",48,14,"Home",NA,NA,0,1
+2006-01-13,"Bourgoin","Bath",9,22,"Away",NA,NA,0,1
+2006-01-13,"Castres","Munster",9,46,"Away",NA,NA,0,1
+2006-01-13,"Ulster","Biarritz",8,24,"Away",NA,NA,0,1
+2006-01-14,"Cardiff Blues","Perpignan",3,21,"Away",NA,NA,0,1
+2006-01-14,"Edinburgh","Scarlets",33,32,"Home",NA,NA,0,1
+2006-01-14,"Leinster","Glasgow",46,22,"Home",NA,NA,0,1
+2006-01-14,"Ospreys","Clermont Auvergne",26,12,"Home",NA,NA,0,1
+2006-01-14,"Toulouse","Wasps",19,13,"Home",NA,NA,0,1
+2006-01-15,"Calvisano","Leeds Tykes",0,20,"Away",NA,NA,0,1
+2006-01-15,"Leicester","Stade Francais",29,22,"Home",NA,NA,0,1
+2006-01-15,"Sale Sharks","Dragons",30,10,"Home",NA,NA,0,1
+2006-01-15,"Saracens","Treviso",35,30,"Home",NA,NA,0,1
+2006-01-20,"Clermont Auvergne","Leicester",27,40,"Away",NA,NA,0,1
+2006-01-20,"Stade Francais","Ospreys",43,10,"Home",NA,NA,0,1
+2006-01-21,"Biarritz","Saracens",43,13,"Home",NA,NA,0,1
+2006-01-21,"Dragons","Castres",28,17,"Home",NA,NA,0,1
+2006-01-21,"Munster","Sale Sharks",31,9,"Home",NA,NA,0,1
+2006-01-21,"Scarlets","Toulouse",42,49,"Away",NA,NA,0,1
+2006-01-21,"Treviso","Ulster",26,43,"Away",NA,NA,0,1
+2006-01-21,"Wasps","Edinburgh",53,17,"Home",NA,NA,0,1
+2006-01-22,"Bath","Leinster",23,35,"Away",NA,NA,0,1
+2006-01-22,"Glasgow","Bourgoin",50,35,"Home",NA,NA,0,1
+2006-01-22,"Leeds Tykes","Cardiff Blues",48,3,"Home",NA,NA,0,1
+2006-01-22,"Perpignan","Calvisano",45,0,"Home",NA,NA,0,1
+2006-04-01,"Leicester","Bath",12,15,"Away",NA,NA,0,1
+2006-04-01,"Munster","Perpignan",19,10,"Home",NA,NA,0,1
+2006-04-01,"Toulouse","Leinster",35,41,"Away",NA,NA,0,1
+2006-04-02,"Biarritz","Sale Sharks",11,6,"Home",NA,NA,0,1
+2006-04-22,"Biarritz","Bath",18,9,"Home",NA,NA,0,1
+2006-04-23,"Leinster","Munster",6,30,"Away",NA,NA,0,1
+2006-05-20,"Biarritz","Munster",19,23,"Away",NA,NA,1,1
+2006-10-20,"Agen","Edinburgh",19,17,"Home",NA,NA,0,1
+2006-10-20,"Borders","Parma",35,3,"Home",NA,NA,0,1
+2006-10-20,"London Irish","Scarlets",25,32,"Away",NA,NA,0,1
+2006-10-20,"Ospreys","Sale Sharks",17,16,"Home",NA,NA,0,1
+2006-10-21,"Bourgoin","Cardiff Blues",5,13,"Away",NA,NA,0,1
+2006-10-21,"Calvisano","Stade Francais",10,45,"Away",NA,NA,0,1
+2006-10-21,"Leinster","Gloucester",37,20,"Home",NA,NA,0,1
+2006-10-21,"Treviso","Perpignan",10,25,"Away",NA,NA,0,1
+2006-10-21,"Ulster","Toulouse",30,3,"Home",NA,NA,0,1
+2006-10-22,"Biarritz","Northampton",22,10,"Home",NA,NA,0,1
+2006-10-22,"Leicester","Munster",19,21,"Away",NA,NA,0,1
+2006-10-22,"Wasps","Castres",19,13,"Home",NA,NA,0,1
+2006-10-27,"Castres","Treviso",41,22,"Home",NA,NA,0,1
+2006-10-27,"Sale Sharks","Calvisano",67,11,"Home",NA,NA,0,1
+2006-10-27,"Scarlets","Ulster",21,15,"Home",NA,NA,0,1
+2006-10-28,"Gloucester","Agen",26,32,"Away",NA,NA,0,1
+2006-10-28,"Munster","Bourgoin",41,23,"Home",NA,NA,0,1
+2006-10-28,"Northampton","Borders",37,13,"Home",NA,NA,0,1
+2006-10-28,"Parma","Biarritz",7,50,"Away",NA,NA,0,1
+2006-10-28,"Perpignan","Wasps",19,12,"Home",NA,NA,0,1
+2006-10-28,"Stade Francais","Ospreys",27,14,"Home",NA,NA,0,1
+2006-10-29,"Cardiff Blues","Leicester",17,21,"Away",NA,NA,0,1
+2006-10-29,"Edinburgh","Leinster",25,24,"Home",NA,NA,0,1
+2006-10-29,"Toulouse","London Irish",37,17,"Home",NA,NA,0,1
+2006-12-08,"Bourgoin","Leicester",13,28,"Away",NA,NA,0,1
+2006-12-09,"Borders","Biarritz",0,25,"Away",NA,NA,0,1
+2006-12-09,"Calvisano","Ospreys",27,50,"Away",NA,NA,0,1
+2006-12-09,"Castres","Perpignan",36,28,"Home",NA,NA,0,1
+2006-12-09,"Gloucester","Edinburgh",38,22,"Home",NA,NA,0,1
+2006-12-09,"Leinster","Agen",26,10,"Home",NA,NA,0,1
+2006-12-09,"London Irish","Ulster",29,13,"Home",NA,NA,0,1
+2006-12-09,"Parma","Northampton",21,68,"Away",NA,NA,0,1
+2006-12-09,"Scarlets","Toulouse",20,19,"Home",NA,NA,0,1
+2006-12-10,"Cardiff Blues","Munster",12,22,"Away",NA,NA,0,1
+2006-12-10,"Stade Francais","Sale Sharks",27,16,"Home",NA,NA,0,1
+2006-12-10,"Wasps","Treviso",55,0,"Home",NA,NA,0,1
+2006-12-15,"Ospreys","Calvisano",26,9,"Home",NA,NA,0,1
+2006-12-15,"Perpignan","Castres",30,3,"Home",NA,NA,0,1
+2006-12-15,"Ulster","London Irish",29,13,"Home",NA,NA,0,1
+2006-12-16,"Agen","Leinster",13,25,"Away",NA,NA,0,1
+2006-12-16,"Leicester","Bourgoin",57,3,"Home",NA,NA,0,1
+2006-12-16,"Northampton","Parma",36,0,"Home",NA,NA,0,1
+2006-12-16,"Toulouse","Scarlets",34,41,"Away",NA,NA,0,1
+2006-12-16,"Treviso","Wasps",5,71,"Away",NA,NA,0,1
+2006-12-17,"Biarritz","Borders",27,17,"Home",NA,NA,0,1
+2006-12-17,"Edinburgh","Gloucester",14,31,"Away",NA,NA,0,1
+2006-12-17,"Munster","Cardiff Blues",32,18,"Home",NA,NA,0,1
+2006-12-17,"Sale Sharks","Stade Francais",12,6,"Home",NA,NA,0,1
+2007-01-12,"Agen","Gloucester",26,18,"Home",NA,NA,0,1
+2007-01-12,"Biarritz","Parma",45,3,"Home",NA,NA,0,1
+2007-01-13,"Calvisano","Sale Sharks",11,29,"Away",NA,NA,0,1
+2007-01-13,"Leicester","Cardiff Blues",34,0,"Home",NA,NA,0,1
+2007-01-13,"Leinster","Edinburgh",49,10,"Home",NA,NA,0,1
+2007-01-13,"London Irish","Toulouse",24,26,"Away",NA,NA,0,1
+2007-01-13,"Treviso","Castres",21,40,"Away",NA,NA,0,1
+2007-01-13,"Ulster","Scarlets",11,35,"Away",NA,NA,0,1
+2007-01-13,"Wasps","Perpignan",22,14,"Home",NA,NA,0,1
+2007-01-14,"Borders","Northampton",19,29,"Away",NA,NA,0,1
+2007-01-14,"Bourgoin","Munster",27,30,"Away",NA,NA,0,1
+2007-01-14,"Ospreys","Stade Francais",22,22,"Draw",NA,NA,0,1
+2007-01-19,"Edinburgh","Agen",7,19,"Away",NA,NA,0,1
+2007-01-19,"Gloucester","Leinster",19,13,"Home",NA,NA,0,1
+2007-01-20,"Cardiff Blues","Bourgoin",27,24,"Home",NA,NA,0,1
+2007-01-20,"Castres","Wasps",13,16,"Away",NA,NA,0,1
+2007-01-20,"Munster","Leicester",6,13,"Away",NA,NA,0,1
+2007-01-20,"Perpignan","Treviso",45,25,"Home",NA,NA,0,1
+2007-01-20,"Sale Sharks","Ospreys",7,18,"Away",NA,NA,0,1
+2007-01-20,"Stade Francais","Calvisano",47,6,"Home",NA,NA,0,1
+2007-01-21,"Northampton","Biarritz",8,17,"Away",NA,NA,0,1
+2007-01-21,"Parma","Borders",45,37,"Home",NA,NA,0,1
+2007-01-21,"Scarlets","London Irish",20,16,"Home",NA,NA,0,1
+2007-01-21,"Toulouse","Ulster",28,13,"Home",NA,NA,0,1
+2007-03-30,"Scarlets","Munster",24,15,"Home",NA,NA,0,1
+2007-03-31,"Wasps","Leinster",35,13,"Home",NA,NA,0,1
+2007-04-01,"Biarritz","Northampton",6,7,"Away",NA,NA,0,1
+2007-04-01,"Leicester","Stade Francais",21,20,"Home",NA,NA,0,1
+2007-04-21,"Leicester","Scarlets",33,17,"Home",NA,NA,0,1
+2007-04-22,"Northampton","Wasps",13,30,"Away",NA,NA,0,1
+2007-05-18,"Dragons","Calvisano",22,15,"Home",NA,NA,0,1
+2007-05-20,"Leicester","Wasps",9,25,"Away",NA,NA,0,1
+2007-11-09,"Perpignan","Dragons",23,19,"Home",NA,NA,0,1
+2007-11-09,"Ulster","Gloucester",14,32,"Away",NA,NA,0,1
+2007-11-10,"Leinster","Leicester",22,9,"Home",NA,NA,0,1
+2007-11-10,"London Irish","Treviso",42,9,"Home",NA,NA,0,1
+2007-11-10,"Ospreys","Bourgoin",22,15,"Home",NA,NA,0,1
+2007-11-10,"Stade Francais","Harlequins",37,17,"Home",NA,NA,0,1
+2007-11-10,"Viadana","Biarritz",11,19,"Away",NA,NA,0,1
+2007-11-10,"Wasps","Munster",24,23,"Home",NA,NA,0,1
+2007-11-11,"Cardiff Blues","Bristol",34,18,"Home",NA,NA,0,1
+2007-11-11,"Clermont Auvergne","Scarlets",48,21,"Home",NA,NA,0,1
+2007-11-11,"Edinburgh","Toulouse",15,19,"Away",NA,NA,0,1
+2007-11-11,"Saracens","Glasgow",33,31,"Home",NA,NA,0,1
+2007-11-16,"Bourgoin","Ulster",24,17,"Home",NA,NA,0,1
+2007-11-16,"Glasgow","Viadana",41,31,"Home",NA,NA,0,1
+2007-11-16,"Gloucester","Ospreys",26,18,"Home",NA,NA,0,1
+2007-11-17,"Biarritz","Saracens",22,21,"Home",NA,NA,0,1
+2007-11-17,"Dragons","London Irish",17,45,"Away",NA,NA,0,1
+2007-11-17,"Harlequins","Cardiff Blues",13,13,"Draw",NA,NA,0,1
+2007-11-17,"Leicester","Edinburgh",39,0,"Home",NA,NA,0,1
+2007-11-17,"Scarlets","Wasps",17,33,"Away",NA,NA,0,1
+2007-11-17,"Treviso","Perpignan",17,29,"Away",NA,NA,0,1
+2007-11-18,"Bristol","Stade Francais",17,0,"Home",NA,NA,0,1
+2007-11-18,"Munster","Clermont Auvergne",36,13,"Home",NA,NA,0,1
+2007-11-18,"Toulouse","Leinster",33,6,"Home",NA,NA,0,1
+2007-12-07,"Bourgoin","Gloucester",7,31,"Away",NA,NA,0,1
+2007-12-07,"Leinster","Edinburgh",28,14,"Home",NA,NA,0,1
+2007-12-07,"Ospreys","Ulster",48,17,"Home",NA,NA,0,1
+2007-12-08,"Clermont Auvergne","Wasps",37,27,"Home",NA,NA,0,1
+2007-12-08,"Harlequins","Bristol",3,17,"Away",NA,NA,0,1
+2007-12-08,"Leicester","Toulouse",14,9,"Home",NA,NA,0,1
+2007-12-08,"Saracens","Viadana",71,7,"Home",NA,NA,0,1
+2007-12-08,"Scarlets","Munster",16,29,"Away",NA,NA,0,1
+2007-12-08,"Treviso","Dragons",33,35,"Away",NA,NA,0,1
+2007-12-09,"Glasgow","Biarritz",9,6,"Home",NA,NA,0,1
+2007-12-09,"London Irish","Perpignan",24,16,"Home",NA,NA,0,1
+2007-12-09,"Stade Francais","Cardiff Blues",12,6,"Home",NA,NA,0,1
+2007-12-14,"Biarritz","Glasgow",21,14,"Home",NA,NA,0,1
+2007-12-14,"Ulster","Ospreys",8,16,"Away",NA,NA,0,1
+2007-12-15,"Cardiff Blues","Stade Francais",31,21,"Home",NA,NA,0,1
+2007-12-15,"Dragons","Treviso",22,24,"Away",NA,NA,0,1
+2007-12-15,"Edinburgh","Leinster",29,10,"Home",NA,NA,0,1
+2007-12-15,"Gloucester","Bourgoin",51,27,"Home",NA,NA,0,1
+2007-12-15,"Perpignan","London Irish",23,6,"Home",NA,NA,0,1
+2007-12-15,"Viadana","Saracens",26,34,"Away",NA,NA,0,1
+2007-12-15,"Wasps","Clermont Auvergne",25,24,"Home",NA,NA,0,1
+2007-12-16,"Bristol","Harlequins",20,7,"Home",NA,NA,0,1
+2007-12-16,"Munster","Scarlets",22,13,"Home",NA,NA,0,1
+2007-12-16,"Toulouse","Leicester",22,11,"Home",NA,NA,0,1
+2008-01-11,"Cardiff Blues","Harlequins",23,12,"Home",NA,NA,0,1
+2008-01-11,"Stade Francais","Bristol",19,11,"Home",NA,NA,0,1
+2008-01-11,"Ulster","Bourgoin",25,24,"Home",NA,NA,0,1
+2008-01-12,"Edinburgh","Leicester",17,12,"Home",NA,NA,0,1
+2008-01-12,"Leinster","Toulouse",20,13,"Home",NA,NA,0,1
+2008-01-12,"London Irish","Dragons",41,24,"Home",NA,NA,0,1
+2008-01-12,"Ospreys","Gloucester",32,15,"Home",NA,NA,0,1
+2008-01-12,"Perpignan","Treviso",55,13,"Home",NA,NA,0,1
+2008-01-12,"Saracens","Biarritz",45,16,"Home",NA,NA,0,1
+2008-01-12,"Viadana","Glasgow",15,18,"Away",NA,NA,0,1
+2008-01-13,"Clermont Auvergne","Munster",26,19,"Home",NA,NA,0,1
+2008-01-13,"Wasps","Scarlets",40,7,"Home",NA,NA,0,1
+2008-01-18,"Biarritz","Viadana",25,16,"Home",NA,NA,0,1
+2008-01-18,"Glasgow","Saracens",17,21,"Away",NA,NA,0,1
+2008-01-19,"Dragons","Perpignan",0,25,"Away",NA,NA,0,1
+2008-01-19,"Leicester","Leinster",25,9,"Home",NA,NA,0,1
+2008-01-19,"Munster","Wasps",19,3,"Home",NA,NA,0,1
+2008-01-19,"Scarlets","Clermont Auvergne",0,41,"Away",NA,NA,0,1
+2008-01-19,"Toulouse","Edinburgh",34,10,"Home",NA,NA,0,1
+2008-01-19,"Treviso","London Irish",11,24,"Away",NA,NA,0,1
+2008-01-20,"Bourgoin","Ospreys",21,28,"Away",NA,NA,0,1
+2008-01-20,"Bristol","Cardiff Blues",0,17,"Away",NA,NA,0,1
+2008-01-20,"Gloucester","Ulster",29,21,"Home",NA,NA,0,1
+2008-01-20,"Harlequins","Stade Francais",10,31,"Away",NA,NA,0,1
+2008-04-05,"Gloucester","Munster",3,16,"Away",NA,NA,0,1
+2008-04-05,"London Irish","Perpignan",20,9,"Home",NA,NA,0,1
+2008-04-06,"Saracens","Ospreys",19,10,"Home",NA,NA,0,1
+2008-04-06,"Toulouse","Cardiff Blues",41,17,"Home",NA,NA,0,1
+2008-04-26,"London Irish","Toulouse",15,21,"Away",NA,NA,0,1
+2008-04-27,"Saracens","Munster",16,18,"Away",NA,NA,0,1
+2008-05-24,"Toulouse","Munster",13,16,"Away",NA,NA,1,1
+2008-10-10,"Munster","Montauban",19,17,"Home",NA,NA,0,1
+2008-10-10,"Perpignan","Treviso",27,16,"Home",NA,NA,0,1
+2008-10-11,"Calvisano","Cardiff Blues",20,56,"Away",NA,NA,0,1
+2008-10-11,"Clermont Auvergne","Sale Sharks",15,32,"Away",NA,NA,0,1
+2008-10-11,"Dragons","Glasgow",32,22,"Home",NA,NA,0,1
+2008-10-11,"Edinburgh","Leinster",16,27,"Away",NA,NA,0,1
+2008-10-11,"Gloucester","Biarritz",22,10,"Home",NA,NA,0,1
+2008-10-11,"Scarlets","Harlequins",22,29,"Away",NA,NA,0,1
+2008-10-11,"Ulster","Stade Francais",10,26,"Away",NA,NA,0,1
+2008-10-12,"Leicester","Ospreys",12,6,"Home",NA,NA,0,1
+2008-10-12,"Toulouse","Bath",18,16,"Home",NA,NA,0,1
+2008-10-12,"Wasps","Castres",25,11,"Home",NA,NA,0,1
+2008-10-17,"Glasgow","Toulouse",16,22,"Away",NA,NA,0,1
+2008-10-18,"Biarritz","Calvisano",41,10,"Home",NA,NA,0,1
+2008-10-18,"Castres","Edinburgh",6,13,"Away",NA,NA,0,1
+2008-10-18,"Harlequins","Ulster",42,21,"Home",NA,NA,0,1
+2008-10-18,"Leinster","Wasps",41,11,"Home",NA,NA,0,1
+2008-10-18,"Ospreys","Perpignan",15,9,"Home",NA,NA,0,1
+2008-10-18,"Stade Francais","Scarlets",37,15,"Home",NA,NA,0,1
+2008-10-18,"Treviso","Leicester",16,60,"Away",NA,NA,0,1
+2008-10-19,"Bath","Dragons",13,9,"Home",NA,NA,0,1
+2008-10-19,"Cardiff Blues","Gloucester",37,24,"Home",NA,NA,0,1
+2008-10-19,"Montauban","Clermont Auvergne",19,24,"Away",NA,NA,0,1
+2008-10-19,"Sale Sharks","Munster",16,24,"Away",NA,NA,0,1
+2008-12-05,"Cardiff Blues","Biarritz",21,17,"Home",NA,NA,0,1
+2008-12-05,"Edinburgh","Wasps",16,25,"Away",NA,NA,0,1
+2008-12-05,"Sale Sharks","Montauban",36,6,"Home",NA,NA,0,1
+2008-12-05,"Ulster","Scarlets",26,16,"Home",NA,NA,0,1
+2008-12-06,"Calvisano","Gloucester",17,40,"Away",NA,NA,0,1
+2008-12-06,"Leicester","Perpignan",38,27,"Home",NA,NA,0,1
+2008-12-06,"Leinster","Castres",33,3,"Home",NA,NA,0,1
+2008-12-06,"Ospreys","Treviso",68,8,"Home",NA,NA,0,1
+2008-12-06,"Stade Francais","Harlequins",10,15,"Away",NA,NA,0,1
+2008-12-06,"Toulouse","Dragons",26,7,"Home",NA,NA,0,1
+2008-12-07,"Bath","Glasgow",35,31,"Home",NA,NA,0,1
+2008-12-07,"Clermont Auvergne","Munster",25,19,"Home",NA,NA,0,1
+2008-12-12,"Castres","Leinster",18,15,"Home",NA,NA,0,1
+2008-12-12,"Scarlets","Ulster",16,16,"Draw",NA,NA,0,1
+2008-12-13,"Biarritz","Cardiff Blues",6,10,"Away",NA,NA,0,1
+2008-12-13,"Dragons","Toulouse",13,26,"Away",NA,NA,0,1
+2008-12-13,"Gloucester","Calvisano",48,5,"Home",NA,NA,0,1
+2008-12-13,"Harlequins","Stade Francais",19,17,"Home",NA,NA,0,1
+2008-12-13,"Montauban","Sale Sharks",16,12,"Home",NA,NA,0,1
+2008-12-13,"Munster","Clermont Auvergne",23,13,"Home",NA,NA,0,1
+2008-12-13,"Treviso","Ospreys",16,36,"Away",NA,NA,0,1
+2008-12-14,"Glasgow","Bath",19,25,"Away",NA,NA,0,1
+2008-12-14,"Perpignan","Leicester",26,20,"Home",NA,NA,0,1
+2008-12-14,"Wasps","Edinburgh",19,11,"Home",NA,NA,0,1
+2009-01-16,"Clermont Auvergne","Montauban",43,10,"Home",NA,NA,0,1
+2009-01-16,"Edinburgh","Castres",32,14,"Home",NA,NA,0,1
+2009-01-16,"Munster","Sale Sharks",37,14,"Home",NA,NA,0,1
+2009-01-16,"Wasps","Leinster",19,12,"Home",NA,NA,0,1
+2009-01-17,"Calvisano","Biarritz",15,23,"Away",NA,NA,0,1
+2009-01-17,"Leicester","Treviso",52,0,"Home",NA,NA,0,1
+2009-01-17,"Perpignan","Ospreys",17,15,"Home",NA,NA,0,1
+2009-01-17,"Scarlets","Stade Francais",31,17,"Home",NA,NA,0,1
+2009-01-17,"Toulouse","Glasgow",26,33,"Away",NA,NA,0,1
+2009-01-17,"Ulster","Harlequins",21,10,"Home",NA,NA,0,1
+2009-01-18,"Dragons","Bath",12,15,"Away",NA,NA,0,1
+2009-01-18,"Gloucester","Cardiff Blues",12,16,"Away",NA,NA,0,1
+2009-01-23,"Biarritz","Gloucester",24,10,"Home",NA,NA,0,1
+2009-01-23,"Cardiff Blues","Calvisano",62,20,"Home",NA,NA,0,1
+2009-01-24,"Harlequins","Scarlets",29,24,"Home",NA,NA,0,1
+2009-01-24,"Leinster","Edinburgh",12,3,"Home",NA,NA,0,1
+2009-01-24,"Ospreys","Leicester",15,9,"Home",NA,NA,0,1
+2009-01-24,"Sale Sharks","Clermont Auvergne",26,17,"Home",NA,NA,0,1
+2009-01-24,"Stade Francais","Ulster",24,19,"Home",NA,NA,0,1
+2009-01-24,"Treviso","Perpignan",16,48,"Away",NA,NA,0,1
+2009-01-25,"Bath","Toulouse",3,3,"Draw",NA,NA,0,1
+2009-01-25,"Castres","Wasps",21,15,"Home",NA,NA,0,1
+2009-01-25,"Glasgow","Dragons",13,10,"Home",NA,NA,0,1
+2009-01-25,"Montauban","Munster",13,39,"Away",NA,NA,0,1
+2009-04-11,"Cardiff Blues","Toulouse",9,6,"Home",NA,NA,0,1
+2009-04-11,"Leicester","Bath",20,15,"Home",NA,NA,0,1
+2009-04-12,"Harlequins","Leinster",5,6,"Away",NA,NA,0,1
+2009-04-12,"Munster","Ospreys",43,9,"Home",NA,NA,0,1
+2009-05-02,"Munster","Leinster",6,25,"Away",NA,NA,0,1
+2009-05-03,"Cardiff Blues","Leicester",26,26,"Draw",NA,NA,0,1
+2009-05-23,"Leicester","Leinster",16,19,"Away",NA,NA,1,1
+2009-10-09,"Gloucester","Dragons",19,17,"Home",NA,NA,0,1
+2009-10-09,"Leinster","London Irish",9,12,"Away",NA,NA,0,1
+2009-10-09,"Ulster","Bath",26,12,"Home",NA,NA,0,1
+2009-10-10,"Cardiff Blues","Harlequins",20,6,"Home",NA,NA,0,1
+2009-10-10,"Clermont Auvergne","Viadana",36,18,"Home",NA,NA,0,1
+2009-10-10,"Glasgow","Biarritz",18,22,"Away",NA,NA,0,1
+2009-10-10,"Northampton","Munster",31,27,"Home",NA,NA,0,1
+2009-10-10,"Scarlets","Brive",24,12,"Home",NA,NA,0,1
+2009-10-10,"Stade Francais","Edinburgh",31,7,"Home",NA,NA,0,1
+2009-10-10,"Treviso","Perpignan",9,8,"Home",NA,NA,0,1
+2009-10-11,"Leicester","Ospreys",32,32,"Draw",NA,NA,0,1
+2009-10-11,"Toulouse","Sale Sharks",36,17,"Home",NA,NA,0,1
+2009-10-16,"Dragons","Glasgow",22,14,"Home",NA,NA,0,1
+2009-10-16,"Perpignan","Northampton",29,13,"Home",NA,NA,0,1
+2009-10-16,"Sale Sharks","Cardiff Blues",27,26,"Home",NA,NA,0,1
+2009-10-17,"Biarritz","Gloucester",42,15,"Home",NA,NA,0,1
+2009-10-17,"Brive","Leinster",13,36,"Away",NA,NA,0,1
+2009-10-17,"Edinburgh","Ulster",17,13,"Home",NA,NA,0,1
+2009-10-17,"Harlequins","Toulouse",19,23,"Away",NA,NA,0,1
+2009-10-17,"London Irish","Scarlets",25,27,"Away",NA,NA,0,1
+2009-10-17,"Munster","Treviso",41,10,"Home",NA,NA,0,1
+2009-10-17,"Viadana","Leicester",11,46,"Away",NA,NA,0,1
+2009-10-18,"Bath","Stade Francais",27,29,"Away",NA,NA,0,1
+2009-10-18,"Ospreys","Clermont Auvergne",25,24,"Home",NA,NA,0,1
+2009-12-11,"Glasgow","Gloucester",33,11,"Home",NA,NA,0,1
+2009-12-11,"Munster","Perpignan",24,23,"Home",NA,NA,0,1
+2009-12-12,"Brive","London Irish",3,36,"Away",NA,NA,0,1
+2009-12-12,"Cardiff Blues","Toulouse",15,9,"Home",NA,NA,0,1
+2009-12-12,"Northampton","Treviso",30,18,"Home",NA,NA,0,1
+2009-12-12,"Scarlets","Leinster",7,32,"Away",NA,NA,0,1
+2009-12-12,"Ulster","Stade Francais",23,13,"Home",NA,NA,0,1
+2009-12-12,"Viadana","Ospreys",7,62,"Away",NA,NA,0,1
+2009-12-13,"Bath","Edinburgh",16,9,"Home",NA,NA,0,1
+2009-12-13,"Biarritz","Dragons",49,13,"Home",NA,NA,0,1
+2009-12-13,"Clermont Auvergne","Leicester",40,30,"Home",NA,NA,0,1
+2009-12-13,"Harlequins","Sale Sharks",19,29,"Away",NA,NA,0,1
+2009-12-19,"Dragons","Biarritz",8,26,"Away",NA,NA,0,1
+2009-12-19,"Edinburgh","Bath",9,6,"Home",NA,NA,0,1
+2009-12-19,"Leicester","Clermont Auvergne",20,15,"Home",NA,NA,0,1
+2009-12-19,"Leinster","Scarlets",39,7,"Home",NA,NA,0,1
+2009-12-19,"London Irish","Brive",34,13,"Home",NA,NA,0,1
+2009-12-19,"Ospreys","Viadana",45,19,"Home",NA,NA,0,1
+2009-12-19,"Toulouse","Cardiff Blues",23,7,"Home",NA,NA,0,1
+2009-12-19,"Treviso","Northampton",18,21,"Away",NA,NA,0,1
+2009-12-20,"Gloucester","Glasgow",19,6,"Home",NA,NA,0,1
+2009-12-20,"Perpignan","Munster",14,37,"Away",NA,NA,0,1
+2009-12-20,"Sale Sharks","Harlequins",21,17,"Home",NA,NA,0,1
+2009-12-20,"Stade Francais","Ulster",29,16,"Home",NA,NA,0,1
+2010-01-15,"Glasgow","Dragons",29,25,"Home",NA,NA,0,1
+2010-01-15,"Ulster","Edinburgh",21,13,"Home",NA,NA,0,1
+2010-01-16,"Cardiff Blues","Sale Sharks",36,19,"Home",NA,NA,0,1
+2010-01-16,"Clermont Auvergne","Ospreys",27,7,"Home",NA,NA,0,1
+2010-01-16,"Gloucester","Biarritz",23,8,"Home",NA,NA,0,1
+2010-01-16,"Leicester","Viadana",47,8,"Home",NA,NA,0,1
+2010-01-16,"Leinster","Brive",27,10,"Home",NA,NA,0,1
+2010-01-16,"Stade Francais","Bath",15,13,"Home",NA,NA,0,1
+2010-01-16,"Treviso","Munster",7,44,"Away",NA,NA,0,1
+2010-01-17,"Northampton","Perpignan",34,0,"Home",NA,NA,0,1
+2010-01-17,"Scarlets","London Irish",31,22,"Home",NA,NA,0,1
+2010-01-17,"Toulouse","Harlequins",33,21,"Home",NA,NA,0,1
+2010-01-22,"Munster","Northampton",12,9,"Home",NA,NA,0,1
+2010-01-22,"Perpignan","Treviso",34,6,"Home",NA,NA,0,1
+2010-01-23,"Bath","Ulster",10,28,"Away",NA,NA,0,1
+2010-01-23,"Brive","Scarlets",17,20,"Away",NA,NA,0,1
+2010-01-23,"Edinburgh","Stade Francais",9,7,"Home",NA,NA,0,1
+2010-01-23,"London Irish","Leinster",11,11,"Draw",NA,NA,0,1
+2010-01-23,"Ospreys","Leicester",17,12,"Home",NA,NA,0,1
+2010-01-23,"Viadana","Clermont Auvergne",20,59,"Away",NA,NA,0,1
+2010-01-24,"Biarritz","Glasgow",41,20,"Home",NA,NA,0,1
+2010-01-24,"Dragons","Gloucester",23,32,"Away",NA,NA,0,1
+2010-01-24,"Harlequins","Cardiff Blues",20,45,"Away",NA,NA,0,1
+2010-01-24,"Sale Sharks","Toulouse",13,19,"Away",NA,NA,0,1
+2010-04-09,"Leinster","Clermont Auvergne",29,28,"Home",NA,NA,0,1
+2010-04-10,"Biarritz","Ospreys",29,28,"Home",NA,NA,0,1
+2010-04-10,"Munster","Northampton",33,19,"Home",NA,NA,0,1
+2010-04-11,"Toulouse","Stade Francais",42,16,"Home",NA,NA,0,1
+2010-05-01,"Toulouse","Leinster",26,16,"Home",NA,NA,0,1
+2010-05-02,"Biarritz","Munster",18,7,"Home",NA,NA,0,1
+2010-05-22,"Biarritz","Toulouse",19,21,"Away",NA,NA,1,1
+2010-10-08,"Glasgow","Dragons",21,13,"Home",NA,NA,0,1
+2010-10-08,"Northampton","Castres",18,14,"Home",NA,NA,0,1
+2010-10-08,"Ulster","Aironi",30,6,"Home",NA,NA,0,1
+2010-10-09,"Cardiff Blues","Edinburgh",18,17,"Home",NA,NA,0,1
+2010-10-09,"Clermont Auvergne","Saracens",25,10,"Home",NA,NA,0,1
+2010-10-09,"Leinster","Racing 92",38,22,"Home",NA,NA,0,1
+2010-10-09,"London Irish","Munster",23,17,"Home",NA,NA,0,1
+2010-10-09,"Scarlets","Perpignan",43,34,"Home",NA,NA,0,1
+2010-10-09,"Toulon","Ospreys",19,14,"Home",NA,NA,0,1
+2010-10-09,"Treviso","Leicester",29,34,"Away",NA,NA,0,1
+2010-10-10,"Bath","Biarritz",11,12,"Away",NA,NA,0,1
+2010-10-10,"Toulouse","Wasps",18,16,"Home",NA,NA,0,1
+2010-10-15,"Castres","Cardiff Blues",27,20,"Home",NA,NA,0,1
+2010-10-15,"Ospreys","London Irish",27,16,"Home",NA,NA,0,1
+2010-10-16,"Aironi","Bath",6,22,"Away",NA,NA,0,1
+2010-10-16,"Dragons","Toulouse",19,40,"Away",NA,NA,0,1
+2010-10-16,"Edinburgh","Northampton",27,31,"Away",NA,NA,0,1
+2010-10-16,"Munster","Toulon",45,18,"Home",NA,NA,0,1
+2010-10-16,"Racing 92","Clermont Auvergne",16,9,"Home",NA,NA,0,1
+2010-10-16,"Saracens","Leinster",23,25,"Away",NA,NA,0,1
+2010-10-17,"Biarritz","Ulster",35,15,"Home",NA,NA,0,1
+2010-10-17,"Leicester","Scarlets",46,10,"Home",NA,NA,0,1
+2010-10-17,"Perpignan","Treviso",35,14,"Home",NA,NA,0,1
+2010-10-17,"Wasps","Glasgow",38,26,"Home",NA,NA,0,1
+2010-12-10,"Glasgow","Toulouse",16,28,"Away",NA,NA,0,1
+2010-12-11,"Aironi","Biarritz",28,27,"Home",NA,NA,0,1
+2010-12-11,"Castres","Edinburgh",21,16,"Home",NA,NA,0,1
+2010-12-11,"Northampton","Cardiff Blues",23,15,"Home",NA,NA,0,1
+2010-12-11,"Perpignan","Leicester",24,19,"Home",NA,NA,0,1
+2010-12-11,"Saracens","Racing 92",21,24,"Away",NA,NA,0,1
+2010-12-11,"Scarlets","Treviso",35,27,"Home",NA,NA,0,1
+2010-12-11,"Ulster","Bath",22,18,"Home",NA,NA,0,1
+2010-12-12,"Clermont Auvergne","Leinster",20,13,"Home",NA,NA,0,1
+2010-12-12,"Dragons","Wasps",16,23,"Away",NA,NA,0,1
+2010-12-12,"London Irish","Toulon",13,19,"Away",NA,NA,0,1
+2010-12-12,"Munster","Ospreys",22,16,"Home",NA,NA,0,1
+2010-12-17,"Biarritz","Aironi",34,3,"Home",NA,NA,0,1
+2010-12-17,"Racing 92","Saracens",14,19,"Away",NA,NA,0,1
+2010-12-18,"Bath","Ulster",22,26,"Away",NA,NA,0,1
+2010-12-18,"Leinster","Clermont Auvergne",24,8,"Home",NA,NA,0,1
+2010-12-18,"Ospreys","Munster",19,15,"Home",NA,NA,0,1
+2010-12-18,"Toulon","London Irish",38,17,"Home",NA,NA,0,1
+2010-12-18,"Treviso","Scarlets",15,38,"Away",NA,NA,0,1
+2010-12-19,"Cardiff Blues","Northampton",19,23,"Away",NA,NA,0,1
+2010-12-19,"Leicester","Perpignan",22,22,"Draw",NA,NA,0,1
+2010-12-19,"Wasps","Dragons",37,10,"Home",NA,NA,0,1
+2010-12-20,"Edinburgh","Castres",24,22,"Home",NA,NA,0,1
+2010-12-21,"Toulouse","Glasgow",36,10,"Home",NA,NA,0,1
+2011-01-14,"Cardiff Blues","Castres",14,9,"Home",NA,NA,0,1
+2011-01-14,"Clermont Auvergne","Racing 92",28,17,"Home",NA,NA,0,1
+2011-01-14,"Northampton","Edinburgh",37,0,"Home",NA,NA,0,1
+2011-01-15,"Bath","Aironi",55,16,"Home",NA,NA,0,1
+2011-01-15,"Leinster","Saracens",43,20,"Home",NA,NA,0,1
+2011-01-15,"Scarlets","Leicester",18,32,"Away",NA,NA,0,1
+2011-01-15,"Toulouse","Dragons",17,3,"Home",NA,NA,0,1
+2011-01-15,"Treviso","Perpignan",9,44,"Away",NA,NA,0,1
+2011-01-15,"Ulster","Biarritz",9,6,"Home",NA,NA,0,1
+2011-01-16,"Glasgow","Wasps",20,10,"Home",NA,NA,0,1
+2011-01-16,"London Irish","Ospreys",24,12,"Home",NA,NA,0,1
+2011-01-16,"Toulon","Munster",32,16,"Home",NA,NA,0,1
+2011-01-21,"Racing 92","Leinster",11,36,"Away",NA,NA,0,1
+2011-01-21,"Saracens","Clermont Auvergne",14,24,"Away",NA,NA,0,1
+2011-01-22,"Aironi","Ulster",6,43,"Away",NA,NA,0,1
+2011-01-22,"Biarritz","Bath",26,19,"Home",NA,NA,0,1
+2011-01-22,"Castres","Northampton",12,23,"Away",NA,NA,0,1
+2011-01-22,"Edinburgh","Cardiff Blues",14,21,"Away",NA,NA,0,1
+2011-01-22,"Munster","London Irish",28,14,"Home",NA,NA,0,1
+2011-01-22,"Ospreys","Toulon",29,17,"Home",NA,NA,0,1
+2011-01-23,"Dragons","Glasgow",16,23,"Away",NA,NA,0,1
+2011-01-23,"Leicester","Treviso",62,15,"Home",NA,NA,0,1
+2011-01-23,"Perpignan","Scarlets",37,5,"Home",NA,NA,0,1
+2011-01-23,"Wasps","Toulouse",21,16,"Home",NA,NA,0,1
+2011-04-09,"Leinster","Leicester",17,10,"Home",NA,NA,0,1
+2011-04-09,"Perpignan","Toulon",29,25,"Home",NA,NA,0,1
+2011-04-10,"Biarritz","Toulouse",20,27,"Away",NA,NA,0,1
+2011-04-10,"Northampton","Ulster",23,13,"Home",NA,NA,0,1
+2011-04-30,"Leinster","Toulouse",32,23,"Home",NA,NA,0,1
+2011-05-01,"Northampton","Perpignan",23,7,"Home",NA,NA,0,1
+2011-05-21,"Northampton","Leinster",22,33,"Away",NA,NA,1,1
+2011-11-11,"Harlequins","Connacht",25,17,"Home",NA,NA,0,1
+2011-11-11,"Racing 92","Cardiff Blues",20,26,"Away",NA,NA,0,1
+2011-11-12,"Aironi","Leicester",12,28,"Away",NA,NA,0,1
+2011-11-12,"London Irish","Edinburgh",19,20,"Away",NA,NA,0,1
+2011-11-12,"Montpellier","Leinster",16,16,"Draw",NA,NA,0,1
+2011-11-12,"Munster","Northampton",23,21,"Home",NA,NA,0,1
+2011-11-12,"Ospreys","Biarritz",28,21,"Home",NA,NA,0,1
+2011-11-12,"Scarlets","Castres",31,23,"Home",NA,NA,0,1
+2011-11-12,"Ulster","Clermont Auvergne",16,11,"Home",NA,NA,0,1
+2011-11-13,"Glasgow","Bath",26,21,"Home",NA,NA,0,1
+2011-11-13,"Saracens","Treviso",42,17,"Home",NA,NA,0,1
+2011-11-13,"Toulouse","Gloucester",21,17,"Home",NA,NA,0,1
+2011-11-18,"Cardiff Blues","London Irish",24,18,"Home",NA,NA,0,1
+2011-11-18,"Clermont Auvergne","Aironi",54,3,"Home",NA,NA,0,1
+2011-11-18,"Edinburgh","Racing 92",48,47,"Home",NA,NA,0,1
+2011-11-18,"Northampton","Scarlets",23,28,"Away",NA,NA,0,1
+2011-11-19,"Biarritz","Saracens",15,10,"Home",NA,NA,0,1
+2011-11-19,"Castres","Munster",24,27,"Away",NA,NA,0,1
+2011-11-19,"Connacht","Toulouse",10,36,"Away",NA,NA,0,1
+2011-11-19,"Gloucester","Harlequins",9,28,"Away",NA,NA,0,1
+2011-11-19,"Leicester","Ulster",20,9,"Home",NA,NA,0,1
+2011-11-19,"Treviso","Ospreys",26,26,"Draw",NA,NA,0,1
+2011-11-20,"Bath","Montpellier",16,13,"Home",NA,NA,0,1
+2011-11-20,"Leinster","Glasgow",38,13,"Home",NA,NA,0,1
+2011-12-09,"Cardiff Blues","Edinburgh",25,8,"Home",NA,NA,0,1
+2011-12-09,"Harlequins","Toulouse",10,21,"Away",NA,NA,0,1
+2011-12-09,"Ulster","Aironi",31,10,"Home",NA,NA,0,1
+2011-12-10,"Castres","Northampton",41,22,"Home",NA,NA,0,1
+2011-12-10,"Connacht","Gloucester",10,14,"Away",NA,NA,0,1
+2011-12-10,"Racing 92","London Irish",14,34,"Away",NA,NA,0,1
+2011-12-10,"Saracens","Ospreys",31,26,"Home",NA,NA,0,1
+2011-12-10,"Scarlets","Munster",14,17,"Away",NA,NA,0,1
+2011-12-10,"Treviso","Biarritz",30,26,"Home",NA,NA,0,1
+2011-12-11,"Bath","Leinster",13,18,"Away",NA,NA,0,1
+2011-12-11,"Clermont Auvergne","Leicester",30,12,"Home",NA,NA,0,1
+2011-12-11,"Glasgow","Montpellier",20,15,"Home",NA,NA,0,1
+2011-12-16,"Biarritz","Treviso",29,12,"Home",NA,NA,0,1
+2011-12-16,"Edinburgh","Cardiff Blues",19,12,"Home",NA,NA,0,1
+2011-12-16,"Ospreys","Saracens",13,16,"Away",NA,NA,0,1
+2011-12-17,"Aironi","Ulster",20,46,"Away",NA,NA,0,1
+2011-12-17,"Gloucester","Connacht",23,19,"Home",NA,NA,0,1
+2011-12-17,"Leicester","Clermont Auvergne",23,19,"Home",NA,NA,0,1
+2011-12-17,"Leinster","Bath",52,27,"Home",NA,NA,0,1
+2011-12-17,"London Irish","Racing 92",19,25,"Away",NA,NA,0,1
+2011-12-17,"Montpellier","Glasgow",13,13,"Draw",NA,NA,0,1
+2011-12-18,"Munster","Scarlets",19,13,"Home",NA,NA,0,1
+2011-12-18,"Northampton","Castres",45,0,"Home",NA,NA,0,1
+2011-12-18,"Toulouse","Harlequins",24,31,"Away",NA,NA,0,1
+2012-01-13,"Ospreys","Treviso",44,17,"Home",NA,NA,0,1
+2012-01-13,"Racing 92","Edinburgh",24,27,"Away",NA,NA,0,1
+2012-01-13,"Ulster","Leicester",41,7,"Home",NA,NA,0,1
+2012-01-14,"Aironi","Clermont Auvergne",0,82,"Away",NA,NA,0,1
+2012-01-14,"Harlequins","Gloucester",20,14,"Home",NA,NA,0,1
+2012-01-14,"London Irish","Cardiff Blues",15,22,"Away",NA,NA,0,1
+2012-01-14,"Montpellier","Bath",24,22,"Home",NA,NA,0,1
+2012-01-14,"Munster","Castres",26,10,"Home",NA,NA,0,1
+2012-01-14,"Scarlets","Northampton",17,29,"Away",NA,NA,0,1
+2012-01-14,"Toulouse","Connacht",24,3,"Home",NA,NA,0,1
+2012-01-15,"Glasgow","Leinster",16,23,"Away",NA,NA,0,1
+2012-01-15,"Saracens","Biarritz",20,16,"Home",NA,NA,0,1
+2012-01-20,"Connacht","Harlequins",9,8,"Home",NA,NA,0,1
+2012-01-20,"Gloucester","Toulouse",34,24,"Home",NA,NA,0,1
+2012-01-21,"Bath","Glasgow",23,18,"Home",NA,NA,0,1
+2012-01-21,"Castres","Scarlets",13,16,"Away",NA,NA,0,1
+2012-01-21,"Clermont Auvergne","Ulster",19,15,"Home",NA,NA,0,1
+2012-01-21,"Leicester","Aironi",33,6,"Home",NA,NA,0,1
+2012-01-21,"Leinster","Montpellier",25,3,"Home",NA,NA,0,1
+2012-01-21,"Northampton","Munster",36,51,"Away",NA,NA,0,1
+2012-01-22,"Biarritz","Ospreys",36,5,"Home",NA,NA,0,1
+2012-01-22,"Cardiff Blues","Racing 92",36,30,"Home",NA,NA,0,1
+2012-01-22,"Edinburgh","London Irish",34,11,"Home",NA,NA,0,1
+2012-01-22,"Treviso","Saracens",20,26,"Away",NA,NA,0,1
+2012-04-07,"Edinburgh","Toulouse",19,14,"Home",NA,NA,0,1
+2012-04-07,"Leinster","Cardiff Blues",34,3,"Home",NA,NA,0,1
+2012-04-08,"Munster","Ulster",16,22,"Away",NA,NA,0,1
+2012-04-08,"Saracens","Clermont Auvergne",3,22,"Away",NA,NA,0,1
+2012-04-28,"Ulster","Edinburgh",22,19,"Home",NA,NA,0,1
+2012-04-29,"Clermont Auvergne","Leinster",15,19,"Away",NA,NA,0,1
+2012-05-19,"Leinster","Ulster",42,14,"Home",NA,NA,1,1
+2012-10-12,"Ospreys","Treviso",38,17,"Home",NA,NA,0,1
+2012-10-12,"Ulster","Castres",41,17,"Home",NA,NA,0,1
+2012-10-13,"Clermont Auvergne","Scarlets",49,16,"Home",NA,NA,0,1
+2012-10-13,"Edinburgh","Saracens",0,45,"Away",NA,NA,0,1
+2012-10-13,"Harlequins","Biarritz",40,13,"Home",NA,NA,0,1
+2012-10-13,"Leinster","Exeter",9,6,"Home",NA,NA,0,1
+2012-10-13,"Racing 92","Munster",22,17,"Home",NA,NA,0,1
+2012-10-13,"Zebre","Connacht",10,19,"Away",NA,NA,0,1
+2012-10-14,"Northampton","Glasgow",24,15,"Home",NA,NA,0,1
+2012-10-14,"Sale Sharks","Cardiff Blues",34,33,"Home",NA,NA,0,1
+2012-10-14,"Toulon","Montpellier",37,16,"Home",NA,NA,0,1
+2012-10-14,"Toulouse","Leicester",23,9,"Home",NA,NA,0,1
+2012-10-19,"Castres","Northampton",21,16,"Home",NA,NA,0,1
+2012-10-19,"Glasgow","Ulster",8,19,"Away",NA,NA,0,1
+2012-10-20,"Biarritz","Zebre",38,17,"Home",NA,NA,0,1
+2012-10-20,"Connacht","Harlequins",22,30,"Away",NA,NA,0,1
+2012-10-20,"Exeter","Clermont Auvergne",12,46,"Away",NA,NA,0,1
+2012-10-20,"Saracens","Racing 92",30,13,"Home",NA,NA,0,1
+2012-10-20,"Scarlets","Leinster",13,20,"Away",NA,NA,0,1
+2012-10-20,"Treviso","Toulouse",21,33,"Away",NA,NA,0,1
+2012-10-21,"Cardiff Blues","Toulon",14,22,"Away",NA,NA,0,1
+2012-10-21,"Leicester","Ospreys",39,22,"Home",NA,NA,0,1
+2012-10-21,"Montpellier","Sale Sharks",33,18,"Home",NA,NA,0,1
+2012-10-21,"Munster","Edinburgh",33,0,"Home",NA,NA,0,1
+2012-12-07,"Connacht","Biarritz",22,14,"Home",NA,NA,0,1
+2012-12-07,"Glasgow","Castres",6,9,"Away",NA,NA,0,1
+2012-12-07,"Northampton","Ulster",6,25,"Away",NA,NA,0,1
+2012-12-08,"Munster","Saracens",15,9,"Home",NA,NA,0,1
+2012-12-08,"Racing 92","Edinburgh",19,9,"Home",NA,NA,0,1
+2012-12-08,"Sale Sharks","Toulon",6,17,"Away",NA,NA,0,1
+2012-12-08,"Scarlets","Exeter",16,22,"Away",NA,NA,0,1
+2012-12-08,"Toulouse","Ospreys",30,14,"Home",NA,NA,0,1
+2012-12-08,"Zebre","Harlequins",14,57,"Away",NA,NA,0,1
+2012-12-09,"Cardiff Blues","Montpellier",24,35,"Away",NA,NA,0,1
+2012-12-09,"Clermont Auvergne","Leinster",15,12,"Home",NA,NA,0,1
+2012-12-09,"Leicester","Treviso",33,25,"Home",NA,NA,0,1
+2012-12-14,"Biarritz","Connacht",17,0,"Home",NA,NA,0,1
+2012-12-14,"Edinburgh","Racing 92",3,15,"Away",NA,NA,0,1
+2012-12-15,"Exeter","Scarlets",30,20,"Home",NA,NA,0,1
+2012-12-15,"Harlequins","Zebre",53,5,"Home",NA,NA,0,1
+2012-12-15,"Leinster","Clermont Auvergne",21,28,"Away",NA,NA,0,1
+2012-12-15,"Montpellier","Cardiff Blues",34,21,"Home",NA,NA,0,1
+2012-12-15,"Ospreys","Toulouse",17,6,"Home",NA,NA,0,1
+2012-12-15,"Treviso","Leicester",13,14,"Away",NA,NA,0,1
+2012-12-15,"Ulster","Northampton",9,10,"Away",NA,NA,0,1
+2012-12-16,"Castres","Glasgow",10,8,"Home",NA,NA,0,1
+2012-12-16,"Saracens","Munster",19,13,"Home",NA,NA,0,1
+2012-12-16,"Toulon","Sale Sharks",62,0,"Home",NA,NA,0,1
+2013-01-11,"Northampton","Castres",18,12,"Home",NA,NA,0,1
+2013-01-11,"Sale Sharks","Montpellier",6,27,"Away",NA,NA,0,1
+2013-01-11,"Ulster","Glasgow",23,6,"Home",NA,NA,0,1
+2013-01-12,"Clermont Auvergne","Exeter",46,3,"Home",NA,NA,0,1
+2013-01-12,"Harlequins","Connacht",47,8,"Home",NA,NA,0,1
+2013-01-12,"Leinster","Scarlets",33,14,"Home",NA,NA,0,1
+2013-01-12,"Racing 92","Saracens",28,37,"Away",NA,NA,0,1
+2013-01-12,"Toulon","Cardiff Blues",45,25,"Home",NA,NA,0,1
+2013-01-12,"Zebre","Biarritz",6,32,"Away",NA,NA,0,1
+2013-01-13,"Edinburgh","Munster",17,26,"Away",NA,NA,0,1
+2013-01-13,"Ospreys","Leicester",15,15,"Draw",NA,NA,0,1
+2013-01-13,"Toulouse","Treviso",35,14,"Home",NA,NA,0,1
+2013-01-18,"Biarritz","Harlequins",9,16,"Away",NA,NA,0,1
+2013-01-18,"Connacht","Zebre",25,20,"Home",NA,NA,0,1
+2013-01-19,"Cardiff Blues","Sale Sharks",26,14,"Home",NA,NA,0,1
+2013-01-19,"Castres","Ulster",8,9,"Away",NA,NA,0,1
+2013-01-19,"Exeter","Leinster",20,29,"Away",NA,NA,0,1
+2013-01-19,"Glasgow","Northampton",27,20,"Home",NA,NA,0,1
+2013-01-19,"Montpellier","Toulon",23,3,"Home",NA,NA,0,1
+2013-01-19,"Scarlets","Clermont Auvergne",0,29,"Away",NA,NA,0,1
+2013-01-20,"Leicester","Toulouse",9,5,"Home",NA,NA,0,1
+2013-01-20,"Munster","Racing 92",29,6,"Home",NA,NA,0,1
+2013-01-20,"Saracens","Edinburgh",40,7,"Home",NA,NA,0,1
+2013-01-20,"Treviso","Ospreys",17,14,"Home",NA,NA,0,1
+2013-04-06,"Clermont Auvergne","Montpellier",36,14,"Home",NA,NA,0,1
+2013-04-06,"Saracens","Ulster",27,16,"Home",NA,NA,0,1
+2013-04-07,"Harlequins","Munster",12,18,"Away",NA,NA,0,1
+2013-04-07,"Toulon","Leicester",21,15,"Home",NA,NA,0,1
+2013-04-27,"Clermont Auvergne","Munster",16,10,"Home",NA,NA,0,1
+2013-04-28,"Saracens","Toulon",12,24,"Away",NA,NA,0,1
+2013-05-18,"Clermont Auvergne","Toulon",15,16,"Away",NA,NA,1,1
+2013-10-11,"Connacht","Saracens",17,23,"Away",NA,NA,0,1
+2013-10-11,"Toulouse","Zebre",38,5,"Home",NA,NA,0,1
+2013-10-11,"Ulster","Leicester",22,16,"Home",NA,NA,0,1
+2013-10-12,"Castres","Northampton",19,13,"Home",NA,NA,0,1
+2013-10-12,"Edinburgh","Munster",29,23,"Home",NA,NA,0,1
+2013-10-12,"Gloucester","Perpignan",27,22,"Home",NA,NA,0,1
+2013-10-12,"Harlequins","Scarlets",26,33,"Away",NA,NA,0,1
+2013-10-12,"Ospreys","Leinster",9,19,"Away",NA,NA,0,1
+2013-10-12,"Treviso","Montpellier",10,27,"Away",NA,NA,0,1
+2013-10-13,"Exeter","Cardiff Blues",44,29,"Home",NA,NA,0,1
+2013-10-13,"Racing 92","Clermont Auvergne",13,9,"Home",NA,NA,0,1
+2013-10-13,"Toulon","Glasgow",51,28,"Home",NA,NA,0,1
+2013-10-18,"Leicester","Treviso",34,3,"Home",NA,NA,0,1
+2013-10-18,"Saracens","Toulouse",16,17,"Away",NA,NA,0,1
+2013-10-19,"Cardiff Blues","Toulon",19,15,"Home",NA,NA,0,1
+2013-10-19,"Leinster","Castres",19,7,"Home",NA,NA,0,1
+2013-10-19,"Montpellier","Ulster",8,25,"Away",NA,NA,0,1
+2013-10-19,"Munster","Gloucester",26,10,"Home",NA,NA,0,1
+2013-10-19,"Scarlets","Racing 92",26,26,"Draw",NA,NA,0,1
+2013-10-19,"Zebre","Connacht",6,33,"Away",NA,NA,0,1
+2013-10-20,"Clermont Auvergne","Harlequins",23,16,"Home",NA,NA,0,1
+2013-10-20,"Glasgow","Exeter",20,16,"Home",NA,NA,0,1
+2013-10-20,"Northampton","Ospreys",27,16,"Home",NA,NA,0,1
+2013-10-20,"Perpignan","Edinburgh",31,14,"Home",NA,NA,0,1
+2013-12-06,"Cardiff Blues","Glasgow",29,20,"Home",NA,NA,0,1
+2013-12-06,"Castres","Ospreys",15,9,"Home",NA,NA,0,1
+2013-12-07,"Clermont Auvergne","Scarlets",32,11,"Home",NA,NA,0,1
+2013-12-07,"Exeter","Toulon",9,14,"Away",NA,NA,0,1
+2013-12-07,"Northampton","Leinster",7,40,"Away",NA,NA,0,1
+2013-12-07,"Racing 92","Harlequins",8,32,"Away",NA,NA,0,1
+2013-12-07,"Ulster","Treviso",48,0,"Home",NA,NA,0,1
+2013-12-07,"Zebre","Saracens",10,39,"Away",NA,NA,0,1
+2013-12-08,"Edinburgh","Gloucester",12,23,"Away",NA,NA,0,1
+2013-12-08,"Leicester","Montpellier",41,32,"Home",NA,NA,0,1
+2013-12-08,"Munster","Perpignan",36,8,"Home",NA,NA,0,1
+2013-12-08,"Toulouse","Connacht",14,16,"Away",NA,NA,0,1
+2013-12-13,"Glasgow","Cardiff Blues",7,9,"Away",NA,NA,0,1
+2013-12-13,"Ospreys","Castres",21,12,"Home",NA,NA,0,1
+2013-12-14,"Connacht","Toulouse",9,37,"Away",NA,NA,0,1
+2013-12-14,"Leinster","Northampton",9,18,"Away",NA,NA,0,1
+2013-12-14,"Perpignan","Munster",17,18,"Away",NA,NA,0,1
+2013-12-14,"Saracens","Zebre",64,3,"Home",NA,NA,0,1
+2013-12-14,"Scarlets","Clermont Auvergne",13,31,"Away",NA,NA,0,1
+2013-12-14,"Toulon","Exeter",32,20,"Home",NA,NA,0,1
+2013-12-14,"Treviso","Ulster",3,35,"Away",NA,NA,0,1
+2013-12-15,"Gloucester","Edinburgh",10,16,"Away",NA,NA,0,1
+2013-12-15,"Harlequins","Racing 92",17,3,"Home",NA,NA,0,1
+2013-12-15,"Montpellier","Leicester",14,15,"Away",NA,NA,0,1
+2014-01-10,"Racing 92","Scarlets",13,19,"Away",NA,NA,0,1
+2014-01-10,"Ulster","Montpellier",27,16,"Home",NA,NA,0,1
+2014-01-11,"Connacht","Zebre",20,3,"Home",NA,NA,0,1
+2014-01-11,"Edinburgh","Perpignan",27,16,"Home",NA,NA,0,1
+2014-01-11,"Exeter","Glasgow",10,15,"Away",NA,NA,0,1
+2014-01-11,"Gloucester","Munster",7,20,"Away",NA,NA,0,1
+2014-01-11,"Harlequins","Clermont Auvergne",13,16,"Away",NA,NA,0,1
+2014-01-11,"Toulon","Cardiff Blues",43,20,"Home",NA,NA,0,1
+2014-01-11,"Treviso","Leicester",19,34,"Away",NA,NA,0,1
+2014-01-12,"Castres","Leinster",22,29,"Away",NA,NA,0,1
+2014-01-12,"Ospreys","Northampton",17,29,"Away",NA,NA,0,1
+2014-01-12,"Toulouse","Saracens",21,11,"Home",NA,NA,0,1
+2014-01-17,"Leinster","Ospreys",36,3,"Home",NA,NA,0,1
+2014-01-17,"Northampton","Castres",13,3,"Home",NA,NA,0,1
+2014-01-18,"Cardiff Blues","Exeter",13,19,"Away",NA,NA,0,1
+2014-01-18,"Glasgow","Toulon",8,15,"Away",NA,NA,0,1
+2014-01-18,"Leicester","Ulster",19,22,"Away",NA,NA,0,1
+2014-01-18,"Montpellier","Treviso",24,6,"Home",NA,NA,0,1
+2014-01-18,"Saracens","Connacht",64,6,"Home",NA,NA,0,1
+2014-01-18,"Zebre","Toulouse",6,16,"Away",NA,NA,0,1
+2014-01-19,"Clermont Auvergne","Racing 92",28,3,"Home",NA,NA,0,1
+2014-01-19,"Munster","Edinburgh",38,6,"Home",NA,NA,0,1
+2014-01-19,"Perpignan","Gloucester",18,36,"Away",NA,NA,0,1
+2014-01-19,"Scarlets","Harlequins",20,22,"Away",NA,NA,0,1
+2014-04-05,"Clermont Auvergne","Leicester",22,16,"Home",NA,NA,0,1
+2014-04-05,"Munster","Toulouse",47,23,"Home",NA,NA,0,1
+2014-04-05,"Ulster","Saracens",15,17,"Away",NA,NA,0,1
+2014-04-06,"Toulon","Leinster",29,14,"Home",NA,NA,0,1
+2014-04-26,"Saracens","Clermont Auvergne",46,6,"Home",NA,NA,0,1
+2014-04-27,"Toulon","Munster",24,16,"Home",NA,NA,0,1
+2014-05-18,"Wasps","Stade Francais",30,29,"Home",NA,NA,0,1
+2014-05-24,"Stade Francais","Wasps",6,20,"Away",NA,NA,0,1
+2014-05-24,"Toulon","Saracens",23,6,"Home",NA,NA,0,1
+2014-10-17,"Harlequins","Castres",25,9,"Home",NA,NA,0,1
+2014-10-18,"Glasgow","Bath",37,10,"Home",NA,NA,0,1
+2014-10-18,"Leicester","Ulster",25,18,"Home",NA,NA,0,1
+2014-10-18,"Racing 92","Northampton",20,11,"Home",NA,NA,0,1
+2014-10-18,"Sale Sharks","Munster",26,27,"Away",NA,NA,0,1
+2014-10-18,"Saracens","Clermont Auvergne",30,23,"Home",NA,NA,0,1
+2014-10-19,"Leinster","Wasps",25,20,"Home",NA,NA,0,1
+2014-10-19,"Ospreys","Treviso",42,7,"Home",NA,NA,0,1
+2014-10-19,"Toulon","Scarlets",28,18,"Home",NA,NA,0,1
+2014-10-19,"Toulouse","Montpellier",30,23,"Home",NA,NA,0,1
+2014-10-24,"Munster","Saracens",14,3,"Home",NA,NA,0,1
+2014-10-25,"Bath","Toulouse",19,21,"Away",NA,NA,0,1
+2014-10-25,"Montpellier","Glasgow",13,15,"Away",NA,NA,0,1
+2014-10-25,"Northampton","Ospreys",34,6,"Home",NA,NA,0,1
+2014-10-25,"Scarlets","Leicester",15,3,"Home",NA,NA,0,1
+2014-10-25,"Ulster","Toulon",13,23,"Away",NA,NA,0,1
+2014-10-26,"Castres","Leinster",16,21,"Away",NA,NA,0,1
+2014-10-26,"Clermont Auvergne","Sale Sharks",35,3,"Home",NA,NA,0,1
+2014-10-26,"Treviso","Racing 92",10,26,"Away",NA,NA,0,1
+2014-10-26,"Wasps","Harlequins",16,23,"Away",NA,NA,0,1
+2014-12-05,"Montpellier","Bath",5,30,"Away",NA,NA,0,1
+2014-12-06,"Munster","Clermont Auvergne",9,16,"Away",NA,NA,0,1
+2014-12-06,"Ospreys","Racing 92",19,19,"Draw",NA,NA,0,1
+2014-12-06,"Sale Sharks","Saracens",15,19,"Away",NA,NA,0,1
+2014-12-06,"Treviso","Northampton",15,38,"Away",NA,NA,0,1
+2014-12-06,"Ulster","Scarlets",24,9,"Home",NA,NA,0,1
+2014-12-07,"Castres","Wasps",17,32,"Away",NA,NA,0,1
+2014-12-07,"Harlequins","Leinster",24,18,"Home",NA,NA,0,1
+2014-12-07,"Leicester","Toulon",25,21,"Home",NA,NA,0,1
+2014-12-07,"Toulouse","Glasgow",19,11,"Home",NA,NA,0,1
+2014-12-12,"Bath","Montpellier",32,12,"Home",NA,NA,0,1
+2014-12-13,"Glasgow","Toulouse",9,12,"Away",NA,NA,0,1
+2014-12-13,"Leinster","Harlequins",14,13,"Home",NA,NA,0,1
+2014-12-13,"Northampton","Treviso",67,0,"Home",NA,NA,0,1
+2014-12-13,"Racing 92","Ospreys",18,14,"Home",NA,NA,0,1
+2014-12-13,"Saracens","Sale Sharks",28,15,"Home",NA,NA,0,1
+2014-12-13,"Toulon","Leicester",23,8,"Home",NA,NA,0,1
+2014-12-14,"Clermont Auvergne","Munster",26,19,"Home",NA,NA,0,1
+2014-12-14,"Scarlets","Ulster",22,13,"Home",NA,NA,0,1
+2014-12-14,"Wasps","Castres",44,17,"Home",NA,NA,0,1
+2015-01-16,"Leicester","Scarlets",40,23,"Home",NA,NA,0,1
+2015-01-17,"Harlequins","Wasps",3,23,"Away",NA,NA,0,1
+2015-01-17,"Leinster","Castres",50,8,"Home",NA,NA,0,1
+2015-01-17,"Sale Sharks","Clermont Auvergne",13,22,"Away",NA,NA,0,1
+2015-01-17,"Saracens","Munster",33,10,"Home",NA,NA,0,1
+2015-01-17,"Toulon","Ulster",60,22,"Home",NA,NA,0,1
+2015-01-18,"Glasgow","Montpellier",21,10,"Home",NA,NA,0,1
+2015-01-18,"Ospreys","Northampton",9,20,"Away",NA,NA,0,1
+2015-01-18,"Racing 92","Treviso",53,7,"Home",NA,NA,0,1
+2015-01-18,"Toulouse","Bath",18,35,"Away",NA,NA,0,1
+2015-01-24,"Castres","Harlequins",19,47,"Away",NA,NA,0,1
+2015-01-24,"Northampton","Racing 92",8,32,"Away",NA,NA,0,1
+2015-01-24,"Scarlets","Toulon",3,26,"Away",NA,NA,0,1
+2015-01-24,"Treviso","Ospreys",23,20,"Home",NA,NA,0,1
+2015-01-24,"Ulster","Leicester",26,7,"Home",NA,NA,0,1
+2015-01-24,"Wasps","Leinster",20,20,"Draw",NA,NA,0,1
+2015-01-25,"Bath","Glasgow",20,15,"Home",NA,NA,0,1
+2015-01-25,"Clermont Auvergne","Saracens",18,6,"Home",NA,NA,0,1
+2015-01-25,"Montpellier","Toulouse",27,26,"Home",NA,NA,0,1
+2015-01-25,"Munster","Sale Sharks",65,10,"Home",NA,NA,0,1
+2015-04-04,"Clermont Auvergne","Northampton",37,5,"Home",NA,NA,0,1
+2015-04-04,"Leinster","Bath",18,15,"Home",NA,NA,0,1
+2015-04-05,"Racing 92","Saracens",11,12,"Away",NA,NA,0,1
+2015-04-05,"Toulon","Wasps",32,18,"Home",NA,NA,0,1
+2015-04-18,"Clermont Auvergne","Saracens",13,9,"Home",NA,NA,0,1
+2015-04-19,"Toulon","Leinster",25,20,"Home",NA,NA,0,1
+2015-05-02,"Clermont Auvergne","Toulon",18,24,"Away",NA,NA,0,1
+2015-05-24,"Gloucester","Connacht",40,32,"Home",NA,NA,0,1
+2015-05-31,"Gloucester","Bordeaux Begles",22,23,"Away",NA,NA,1,1
+2015-11-13,"Leicester","Stade Francais",33,20,"Home",NA,NA,0,1
+2015-11-14,"Munster","Treviso",32,7,"Home",NA,NA,0,1
+2015-11-14,"Northampton","Scarlets",15,11,"Home",NA,NA,0,1
+2015-11-14,"Saracens","Toulouse",32,7,"Home",NA,NA,0,1
+2015-11-15,"Leinster","Wasps",6,33,"Away",NA,NA,0,1
+2015-11-15,"Ospreys","Exeter",25,13,"Home",NA,NA,0,1
+2015-11-20,"Ulster","Saracens",9,27,"Away",NA,NA,0,1
+2015-11-21,"Bath","Leinster",19,16,"Home",NA,NA,0,1
+2015-11-21,"Exeter","Bordeaux Begles",34,19,"Home",NA,NA,0,1
+2015-11-21,"Glasgow","Northampton",15,26,"Away",NA,NA,0,1
+2015-11-21,"Scarlets","Racing 92",12,29,"Away",NA,NA,0,1
+2015-11-21,"Toulouse","Oyonnax",24,18,"Home",NA,NA,0,1
+2015-11-21,"Treviso","Leicester",3,36,"Away",NA,NA,0,1
+2015-11-22,"Clermont Auvergne","Ospreys",34,29,"Home",NA,NA,0,1
+2015-11-22,"Wasps","Toulon",32,6,"Home",NA,NA,0,1
+2015-12-11,"Ulster","Toulouse",38,0,"Home",NA,NA,0,1
+2015-12-12,"Exeter","Clermont Auvergne",31,14,"Home",NA,NA,0,1
+2015-12-12,"Glasgow","Scarlets",43,6,"Home",NA,NA,0,1
+2015-12-12,"Munster","Leicester",19,31,"Away",NA,NA,0,1
+2015-12-12,"Ospreys","Bordeaux Begles",19,16,"Home",NA,NA,0,1
+2015-12-12,"Racing 92","Northampton",33,3,"Home",NA,NA,0,1
+2015-12-12,"Treviso","Stade Francais",17,50,"Away",NA,NA,0,1
+2015-12-13,"Oyonnax","Saracens",10,45,"Away",NA,NA,0,1
+2015-12-13,"Toulon","Leinster",24,9,"Home",NA,NA,0,1
+2015-12-13,"Wasps","Bath",23,25,"Away",NA,NA,0,1
+2015-12-18,"Northampton","Racing 92",9,9,"Draw",NA,NA,0,1
+2015-12-19,"Bath","Wasps",10,36,"Away",NA,NA,0,1
+2015-12-19,"Bordeaux Begles","Ospreys",33,27,"Home",NA,NA,0,1
+2015-12-19,"Leinster","Toulon",16,20,"Away",NA,NA,0,1
+2015-12-19,"Saracens","Oyonnax",55,13,"Home",NA,NA,0,1
+2015-12-19,"Scarlets","Glasgow",6,9,"Away",NA,NA,0,1
+2015-12-19,"Stade Francais","Treviso",40,14,"Home",NA,NA,0,1
+2015-12-20,"Clermont Auvergne","Exeter",42,10,"Home",NA,NA,0,1
+2015-12-20,"Leicester","Munster",17,6,"Home",NA,NA,0,1
+2015-12-20,"Toulouse","Ulster",23,25,"Away",NA,NA,0,1
+2016-01-08,"Bordeaux Begles","Clermont Auvergne",10,28,"Away",NA,NA,0,1
+2016-01-09,"Racing 92","Glasgow",34,10,"Home",NA,NA,0,1
+2016-01-09,"Stade Francais","Munster",27,7,"Home",NA,NA,0,1
+2016-01-10,"Oyonnax","Ulster",23,24,"Away",NA,NA,0,1
+2016-01-10,"Toulon","Bath",12,9,"Home",NA,NA,0,1
+2016-01-15,"Ospreys","Clermont Auvergne",21,13,"Home",NA,NA,0,1
+2016-01-16,"Bordeaux Begles","Exeter",34,27,"Home",NA,NA,0,1
+2016-01-16,"Leicester","Treviso",47,7,"Home",NA,NA,0,1
+2016-01-16,"Leinster","Bath",25,11,"Home",NA,NA,0,1
+2016-01-16,"Munster","Stade Francais",26,13,"Home",NA,NA,0,1
+2016-01-16,"Oyonnax","Toulouse",32,14,"Home",NA,NA,0,1
+2016-01-16,"Saracens","Ulster",33,17,"Home",NA,NA,0,1
+2016-01-17,"Northampton","Glasgow",19,15,"Home",NA,NA,0,1
+2016-01-17,"Racing 92","Scarlets",64,14,"Home",NA,NA,0,1
+2016-01-17,"Toulon","Wasps",15,11,"Home",NA,NA,0,1
+2016-01-23,"Bath","Toulon",14,19,"Away",NA,NA,0,1
+2016-01-23,"Glasgow","Racing 92",22,5,"Home",NA,NA,0,1
+2016-01-23,"Scarlets","Northampton",10,22,"Away",NA,NA,0,1
+2016-01-23,"Toulouse","Saracens",17,28,"Away",NA,NA,0,1
+2016-01-23,"Ulster","Oyonnax",56,3,"Home",NA,NA,0,1
+2016-01-23,"Wasps","Leinster",51,10,"Home",NA,NA,0,1
+2016-01-24,"Clermont Auvergne","Bordeaux Begles",28,37,"Away",NA,NA,0,1
+2016-01-24,"Exeter","Ospreys",33,17,"Home",NA,NA,0,1
+2016-01-24,"Stade Francais","Leicester",36,21,"Home",NA,NA,0,1
+2016-01-24,"Treviso","Munster",5,28,"Away",NA,NA,0,1
+2016-04-09,"Saracens","Northampton",29,20,"Home",NA,NA,0,1
+2016-04-09,"Wasps","Exeter",25,24,"Home",NA,NA,0,1
+2016-04-10,"Leicester","Stade Francais",41,13,"Home",NA,NA,0,1
+2016-04-10,"Racing 92","Toulon",19,16,"Home",NA,NA,0,1
+2016-04-23,"Saracens","Wasps",24,17,"Home",NA,NA,0,1
+2016-04-24,"Leicester","Racing 92",16,19,"Away",NA,NA,0,1
+2016-05-14,"Racing 92","Saracens",9,21,"Away",NA,NA,1,1
+2016-10-14,"Glasgow","Leicester",42,13,"Home",NA,NA,0,1
+2016-10-15,"Connacht","Toulouse",23,21,"Home",NA,NA,0,1
+2016-10-15,"Leinster","Castres",33,15,"Home",NA,NA,0,1
+2016-10-15,"Northampton","Montpellier",16,14,"Home",NA,NA,0,1
+2016-10-15,"Scarlets","Sale Sharks",28,11,"Home",NA,NA,0,1
+2016-10-15,"Toulon","Saracens",23,31,"Away",NA,NA,0,1
+2016-10-15,"Wasps","Zebre",82,14,"Home",NA,NA,0,1
+2016-10-16,"Bordeaux Begles","Ulster",28,13,"Home",NA,NA,0,1
+2016-10-16,"Exeter","Clermont Auvergne",8,35,"Away",NA,NA,0,1
+2016-10-21,"Sale Sharks","Toulon",5,15,"Away",NA,NA,0,1
+2016-10-22,"Castres","Northampton",41,7,"Home",NA,NA,0,1
+2016-10-22,"Clermont Auvergne","Bordeaux Begles",49,33,"Home",NA,NA,0,1
+2016-10-22,"Munster","Glasgow",38,17,"Home",NA,NA,0,1
+2016-10-22,"Saracens","Scarlets",44,26,"Home",NA,NA,0,1
+2016-10-22,"Ulster","Exeter",19,18,"Home",NA,NA,0,1
+2016-10-23,"Leicester","Racing 92",27,17,"Home",NA,NA,0,1
+2016-10-23,"Montpellier","Leinster",22,16,"Home",NA,NA,0,1
+2016-10-23,"Toulouse","Wasps",20,20,"Draw",NA,NA,0,1
+2016-10-23,"Zebre","Connacht",7,52,"Away",NA,NA,0,1
+2016-12-09,"Northampton","Leinster",10,37,"Away",NA,NA,0,1
+2016-12-10,"Munster","Leicester",38,0,"Home",NA,NA,0,1
+2016-12-10,"Racing 92","Glasgow",14,23,"Away",NA,NA,0,1
+2016-12-10,"Saracens","Sale Sharks",50,3,"Home",NA,NA,0,1
+2016-12-10,"Ulster","Clermont Auvergne",39,32,"Home",NA,NA,0,1
+2016-12-10,"Zebre","Toulouse",6,36,"Away",NA,NA,0,1
+2016-12-11,"Exeter","Bordeaux Begles",7,13,"Away",NA,NA,0,1
+2016-12-11,"Montpellier","Castres",32,14,"Home",NA,NA,0,1
+2016-12-11,"Toulon","Scarlets",31,20,"Home",NA,NA,0,1
+2016-12-11,"Wasps","Connacht",32,17,"Home",NA,NA,0,1
+2016-12-16,"Glasgow","Racing 92",23,7,"Home",NA,NA,0,1
+2016-12-17,"Bordeaux Begles","Exeter",12,20,"Away",NA,NA,0,1
+2016-12-17,"Connacht","Wasps",20,18,"Home",NA,NA,0,1
+2016-12-17,"Leicester","Munster",18,16,"Home",NA,NA,0,1
+2016-12-17,"Leinster","Northampton",60,13,"Home",NA,NA,0,1
+2016-12-17,"Toulouse","Zebre",54,15,"Home",NA,NA,0,1
+2016-12-18,"Castres","Montpellier",29,23,"Home",NA,NA,0,1
+2016-12-18,"Clermont Auvergne","Ulster",38,19,"Home",NA,NA,0,1
+2016-12-18,"Sale Sharks","Saracens",10,24,"Away",NA,NA,0,1
+2016-12-18,"Scarlets","Toulon",22,21,"Home",NA,NA,0,1
+2017-01-07,"Racing 92","Munster",7,32,"Away",NA,NA,0,1
+2017-01-13,"Leinster","Montpellier",57,3,"Home",NA,NA,0,1
+2017-01-14,"Connacht","Zebre",66,21,"Home",NA,NA,0,1
+2017-01-14,"Glasgow","Munster",12,14,"Away",NA,NA,0,1
+2017-01-14,"Northampton","Castres",28,21,"Home",NA,NA,0,1
+2017-01-14,"Racing 92","Leicester",34,3,"Home",NA,NA,0,1
+2017-01-14,"Wasps","Toulouse",17,14,"Home",NA,NA,0,1
+2017-01-15,"Bordeaux Begles","Clermont Auvergne",6,9,"Away",NA,NA,0,1
+2017-01-15,"Exeter","Ulster",31,19,"Home",NA,NA,0,1
+2017-01-15,"Scarlets","Saracens",22,22,"Draw",NA,NA,0,1
+2017-01-15,"Toulon","Sale Sharks",27,12,"Home",NA,NA,0,1
+2017-01-20,"Castres","Leinster",24,24,"Draw",NA,NA,0,1
+2017-01-20,"Montpellier","Northampton",26,17,"Home",NA,NA,0,1
+2017-01-21,"Clermont Auvergne","Exeter",48,26,"Home",NA,NA,0,1
+2017-01-21,"Leicester","Glasgow",0,43,"Away",NA,NA,0,1
+2017-01-21,"Munster","Racing 92",22,10,"Home",NA,NA,0,1
+2017-01-21,"Sale Sharks","Scarlets",25,23,"Home",NA,NA,0,1
+2017-01-21,"Saracens","Toulon",10,3,"Home",NA,NA,0,1
+2017-01-21,"Ulster","Bordeaux Begles",22,26,"Away",NA,NA,0,1
+2017-01-22,"Toulouse","Connacht",19,10,"Home",NA,NA,0,1
+2017-01-22,"Zebre","Wasps",27,41,"Away",NA,NA,0,1
+2017-04-01,"Leinster","Wasps",32,17,"Home",NA,NA,0,1
+2017-04-01,"Munster","Toulouse",41,16,"Home",NA,NA,0,1
+2017-04-02,"Clermont Auvergne","Toulon",29,9,"Home",NA,NA,0,1
+2017-04-02,"Saracens","Glasgow",38,13,"Home",NA,NA,0,1
+2017-04-22,"Munster","Saracens",10,26,"Away",NA,NA,0,1
+2017-04-23,"Clermont Auvergne","Leinster",27,22,"Home",NA,NA,0,1
+2017-05-13,"Saracens","Clermont Auvergne",28,17,"Home",NA,NA,0,1
+2017-05-19,"Stade Francais","Cardiff Blues",46,21,"Home",NA,NA,0,1
+2017-05-20,"Northampton","Connacht",21,15,"Home",NA,NA,0,1
+2017-05-26,"Northampton","Stade Francais",23,22,"Home",NA,NA,1,1
+2017-10-13,"Ulster","Wasps",19,9,"Home",NA,NA,0,1
+2017-10-14,"Bath","Treviso",23,0,"Home",NA,NA,0,1
+2017-10-14,"Exeter","Glasgow",24,15,"Home",NA,NA,0,1
+2017-10-14,"Harlequins","La Rochelle",27,34,"Away",NA,NA,0,1
+2017-10-14,"Leinster","Montpellier",24,17,"Home",NA,NA,0,1
+2017-10-14,"Racing 92","Leicester",22,18,"Home",NA,NA,0,1
+2017-10-15,"Castres","Munster",17,17,"Draw",NA,NA,0,1
+2017-10-15,"Northampton","Saracens",13,57,"Away",NA,NA,0,1
+2017-10-15,"Ospreys","Clermont Auvergne",21,26,"Away",NA,NA,0,1
+2017-10-15,"Toulon","Scarlets",21,20,"Home",NA,NA,0,1
+2017-10-20,"Scarlets","Bath",13,18,"Away",NA,NA,0,1
+2017-10-21,"Clermont Auvergne","Northampton",24,7,"Home",NA,NA,0,1
+2017-10-21,"Glasgow","Leinster",18,34,"Away",NA,NA,0,1
+2017-10-21,"Leicester","Castres",54,29,"Home",NA,NA,0,1
+2017-10-21,"Munster","Racing 92",14,7,"Home",NA,NA,0,1
+2017-10-21,"Saracens","Ospreys",36,34,"Home",NA,NA,0,1
+2017-10-21,"Treviso","Toulon",29,30,"Away",NA,NA,0,1
+2017-10-22,"La Rochelle","Ulster",41,17,"Home",NA,NA,0,1
+2017-10-22,"Montpellier","Exeter",24,27,"Away",NA,NA,0,1
+2017-10-22,"Wasps","Harlequins",41,10,"Home",NA,NA,0,1
+2017-12-08,"Glasgow","Montpellier",22,29,"Away",NA,NA,0,1
+2017-12-09,"Castres","Racing 92",16,13,"Home",NA,NA,0,1
+2017-12-09,"Munster","Leicester",33,10,"Home",NA,NA,0,1
+2017-12-09,"Northampton","Ospreys",32,43,"Away",NA,NA,0,1
+2017-12-09,"Scarlets","Treviso",33,28,"Home",NA,NA,0,1
+2017-12-09,"Toulon","Bath",24,20,"Home",NA,NA,0,1
+2017-12-10,"Exeter","Leinster",8,18,"Away",NA,NA,0,1
+2017-12-10,"Harlequins","Ulster",5,17,"Away",NA,NA,0,1
+2017-12-10,"La Rochelle","Wasps",49,29,"Home",NA,NA,0,1
+2017-12-11,"Saracens","Clermont Auvergne",14,46,"Away",NA,NA,0,1
+2017-12-15,"Ulster","Harlequins",52,24,"Home",NA,NA,0,1
+2017-12-16,"Bath","Toulon",26,21,"Home",NA,NA,0,1
+2017-12-16,"Leinster","Exeter",22,17,"Home",NA,NA,0,1
+2017-12-16,"Montpellier","Glasgow",36,26,"Home",NA,NA,0,1
+2017-12-16,"Racing 92","Castres",29,7,"Home",NA,NA,0,1
+2017-12-16,"Treviso","Scarlets",12,31,"Away",NA,NA,0,1
+2017-12-17,"Clermont Auvergne","Saracens",24,21,"Home",NA,NA,0,1
+2017-12-17,"Leicester","Munster",16,25,"Away",NA,NA,0,1
+2017-12-17,"Ospreys","Northampton",32,15,"Home",NA,NA,0,1
+2017-12-17,"Wasps","La Rochelle",21,3,"Home",NA,NA,0,1
+2018-01-12,"Bath","Scarlets",17,35,"Away",NA,NA,0,1
+2018-01-13,"Exeter","Montpellier",41,10,"Home",NA,NA,0,1
+2018-01-13,"Harlequins","Wasps",33,28,"Home",NA,NA,0,1
+2018-01-13,"Northampton","Clermont Auvergne",34,21,"Home",NA,NA,0,1
+2018-01-13,"Ospreys","Saracens",15,15,"Draw",NA,NA,0,1
+2018-01-13,"Ulster","La Rochelle",20,13,"Home",NA,NA,0,1
+2018-01-14,"Castres","Leicester",39,0,"Home",NA,NA,0,1
+2018-01-14,"Leinster","Glasgow",55,19,"Home",NA,NA,0,1
+2018-01-14,"Racing 92","Munster",34,30,"Home",NA,NA,0,1
+2018-01-14,"Toulon","Treviso",36,0,"Home",NA,NA,0,1
+2018-01-20,"Clermont Auvergne","Ospreys",24,7,"Home",NA,NA,0,1
+2018-01-20,"Glasgow","Exeter",28,21,"Home",NA,NA,0,1
+2018-01-20,"Montpellier","Leinster",14,23,"Away",NA,NA,0,1
+2018-01-20,"Saracens","Northampton",62,14,"Home",NA,NA,0,1
+2018-01-20,"Scarlets","Toulon",30,27,"Home",NA,NA,0,1
+2018-01-20,"Treviso","Bath",28,47,"Away",NA,NA,0,1
+2018-01-21,"La Rochelle","Harlequins",16,7,"Home",NA,NA,0,1
+2018-01-21,"Leicester","Racing 92",20,23,"Away",NA,NA,0,1
+2018-01-21,"Munster","Castres",48,3,"Home",NA,NA,0,1
+2018-01-21,"Wasps","Ulster",26,7,"Home",NA,NA,0,1
+2018-03-30,"Scarlets","La Rochelle",29,17,"Home",NA,NA,0,1
+2018-03-31,"Munster","Toulon",20,19,"Home",NA,NA,0,1
+2018-04-01,"Clermont Auvergne","Racing 92",17,28,"Away",NA,NA,0,1
+2018-04-01,"Leinster","Saracens",30,19,"Home",NA,NA,0,1
+2018-04-21,"Leinster","Scarlets",38,16,"Home",NA,NA,0,1
+2018-04-22,"Racing 92","Munster",27,22,"Home",NA,NA,0,1
+2018-05-12,"Leinster","Racing 92",15,12,"Home",NA,NA,0,1
+2018-10-12,"Leinster","Wasps",52,3,"Home",NA,NA,0,1
+2018-10-13,"Bath","Toulouse",20,22,"Away",NA,NA,0,1
+2018-10-13,"Exeter","Munster",10,10,"Draw",NA,NA,0,1
+2018-10-13,"Montpellier","Edinburgh",21,15,"Home",NA,NA,0,1
+2018-10-13,"Scarlets","Racing 92",13,14,"Away",NA,NA,0,1
+2018-10-13,"Ulster","Leicester",24,10,"Home",NA,NA,0,1
+2018-10-14,"Glasgow","Saracens",3,13,"Away",NA,NA,0,1
+2018-10-14,"Gloucester","Castres",19,14,"Home",NA,NA,0,1
+2018-10-14,"Lyon","Cardiff Blues",21,30,"Away",NA,NA,0,1
+2018-10-14,"Toulon","Newcastle",25,26,"Away",NA,NA,0,1
+2018-10-19,"Leicester","Scarlets",45,27,"Home",NA,NA,0,1
+2018-10-20,"Castres","Exeter",29,25,"Home",NA,NA,0,1
+2018-10-20,"Edinburgh","Toulon",40,14,"Home",NA,NA,0,1
+2018-10-20,"Munster","Gloucester",36,22,"Home",NA,NA,0,1
+2018-10-20,"Racing 92","Ulster",44,12,"Home",NA,NA,0,1
+2018-10-20,"Saracens","Lyon",29,10,"Home",NA,NA,0,1
+2018-10-20,"Wasps","Bath",35,35,"Draw",NA,NA,0,1
+2018-10-21,"Cardiff Blues","Glasgow",12,29,"Away",NA,NA,0,1
+2018-10-21,"Newcastle","Montpellier",23,20,"Home",NA,NA,0,1
+2018-10-21,"Toulouse","Leinster",28,27,"Home",NA,NA,0,1
+2018-12-07,"Edinburgh","Newcastle",31,13,"Home",NA,NA,0,1
+2018-12-07,"Scarlets","Ulster",24,25,"Away",NA,NA,0,1
+2018-12-08,"Bath","Leinster",10,17,"Away",NA,NA,0,1
+2018-12-08,"Exeter","Gloucester",19,27,"Away",NA,NA,0,1
+2018-12-08,"Lyon","Glasgow",22,42,"Away",NA,NA,0,1
+2018-12-08,"Toulon","Montpellier",38,28,"Home",NA,NA,0,1
+2018-12-08,"Wasps","Toulouse",16,24,"Away",NA,NA,0,1
+2018-12-09,"Munster","Castres",30,5,"Home",NA,NA,0,1
+2018-12-09,"Racing 92","Leicester",36,26,"Home",NA,NA,0,1
+2018-12-09,"Saracens","Cardiff Blues",51,25,"Home",NA,NA,0,1
+2018-12-14,"Gloucester","Exeter",17,29,"Away",NA,NA,0,1
+2018-12-14,"Ulster","Scarlets",30,15,"Home",NA,NA,0,1
+2018-12-15,"Cardiff Blues","Saracens",14,26,"Away",NA,NA,0,1
+2018-12-15,"Castres","Munster",13,12,"Home",NA,NA,0,1
+2018-12-15,"Glasgow","Lyon",21,10,"Home",NA,NA,0,1
+2018-12-15,"Leinster","Bath",42,15,"Home",NA,NA,0,1
+2018-12-15,"Toulouse","Wasps",42,27,"Home",NA,NA,0,1
+2018-12-16,"Leicester","Racing 92",11,34,"Away",NA,NA,0,1
+2018-12-16,"Montpellier","Toulon",34,13,"Home",NA,NA,0,1
+2018-12-16,"Newcastle","Edinburgh",8,21,"Away",NA,NA,0,1
+2019-01-11,"Gloucester","Munster",15,41,"Away",NA,NA,0,1
+2019-01-12,"Bath","Wasps",18,16,"Home",NA,NA,0,1
+2019-01-12,"Leinster","Toulouse",29,13,"Home",NA,NA,0,1
+2019-01-12,"Montpellier","Newcastle",45,8,"Home",NA,NA,0,1
+2019-01-12,"Scarlets","Leicester",33,10,"Home",NA,NA,0,1
+2019-01-12,"Toulon","Edinburgh",17,28,"Away",NA,NA,0,1
+2019-01-12,"Ulster","Racing 92",26,22,"Home",NA,NA,0,1
+2019-01-13,"Exeter","Castres",34,12,"Home",NA,NA,0,1
+2019-01-13,"Glasgow","Cardiff Blues",33,24,"Home",NA,NA,0,1
+2019-01-13,"Lyon","Saracens",10,28,"Away",NA,NA,0,1
+2019-01-18,"Edinburgh","Montpellier",19,10,"Home",NA,NA,0,1
+2019-01-18,"Newcastle","Toulon",24,27,"Away",NA,NA,0,1
+2019-01-19,"Cardiff Blues","Lyon",33,14,"Home",NA,NA,0,1
+2019-01-19,"Castres","Gloucester",24,22,"Home",NA,NA,0,1
+2019-01-19,"Leicester","Ulster",13,14,"Away",NA,NA,0,1
+2019-01-19,"Munster","Exeter",9,7,"Home",NA,NA,0,1
+2019-01-19,"Racing 92","Scarlets",46,33,"Home",NA,NA,0,1
+2019-01-19,"Saracens","Glasgow",38,19,"Home",NA,NA,0,1
+2019-01-20,"Toulouse","Bath",20,17,"Home",NA,NA,0,1
+2019-01-20,"Wasps","Leinster",19,37,"Away",NA,NA,0,1
+2019-03-30,"Edinburgh","Munster",13,17,"Away",NA,NA,0,1
+2019-03-30,"Leinster","Ulster",21,18,"Home",NA,NA,0,1
+2019-03-30,"Saracens","Glasgow",56,27,"Home",NA,NA,0,1
+2019-03-31,"Racing 92","Toulouse",21,22,"Away",NA,NA,0,1
+2019-04-20,"Saracens","Munster",32,16,"Home",NA,NA,0,1
+2019-04-21,"Leinster","Toulouse",30,12,"Home",NA,NA,0,1
+2019-05-11,"Saracens","Leinster",20,10,"Home",NA,NA,0,1
+2019-11-15,"Gloucester","Toulouse",20,25,"Away",NA,NA,0,1
+2019-11-16,"Bath","Ulster",16,17,"Away",NA,NA,0,1
+2019-11-16,"Clermont Auvergne","Harlequins",53,21,"Home",NA,NA,0,1
+2019-11-16,"Glasgow","Sale Sharks",13,7,"Home",NA,NA,0,1
+2019-11-16,"La Rochelle","Exeter",12,31,"Away",NA,NA,0,1
+2019-11-16,"Leinster","Treviso",33,19,"Home",NA,NA,0,1
+2019-11-16,"Ospreys","Munster",13,32,"Away",NA,NA,0,1
+2019-11-17,"Connacht","Montpellier",23,20,"Home",NA,NA,0,1
+2019-11-17,"Northampton","Lyon",25,14,"Home",NA,NA,0,1
+2019-11-17,"Racing 92","Saracens",30,10,"Home",NA,NA,0,1
+2019-11-22,"Ulster","Clermont Auvergne",18,13,"Home",NA,NA,0,1
+2019-11-23,"Exeter","Glasgow",34,18,"Home",NA,NA,0,1
+2019-11-23,"Harlequins","Bath",15,9,"Home",NA,NA,0,1
+2019-11-23,"Lyon","Leinster",6,13,"Away",NA,NA,0,1
+2019-11-23,"Munster","Racing 92",21,21,"Draw",NA,NA,0,1
+2019-11-23,"Saracens","Ospreys",44,3,"Home",NA,NA,0,1
+2019-11-23,"Toulouse","Connacht",32,17,"Home",NA,NA,0,1
+2019-11-23,"Treviso","Northampton",32,35,"Away",NA,NA,0,1
+2019-11-24,"Montpellier","Gloucester",30,27,"Home",NA,NA,0,1
+2019-11-24,"Sale Sharks","La Rochelle",25,15,"Home",NA,NA,0,1
+2019-12-06,"Bath","Clermont Auvergne",17,34,"Away",NA,NA,0,1
+2019-12-07,"La Rochelle","Glasgow",24,27,"Away",NA,NA,0,1
+2019-12-07,"Lyon","Treviso",28,0,"Home",NA,NA,0,1
+2019-12-07,"Munster","Saracens",10,3,"Home",NA,NA,0,1
+2019-12-07,"Northampton","Leinster",16,43,"Away",NA,NA,0,1
+2019-12-07,"Ospreys","Racing 92",19,40,"Away",NA,NA,0,1
+2019-12-07,"Ulster","Harlequins",25,24,"Home",NA,NA,0,1
+2019-12-08,"Gloucester","Connacht",26,17,"Home",NA,NA,0,1
+2019-12-08,"Sale Sharks","Exeter",20,22,"Away",NA,NA,0,1
+2019-12-08,"Toulouse","Montpellier",23,9,"Home",NA,NA,0,1
+2019-12-13,"Harlequins","Ulster",10,34,"Away",NA,NA,0,1
+2019-12-13,"Racing 92","Ospreys",40,27,"Home",NA,NA,0,1
+2019-12-14,"Connacht","Gloucester",27,24,"Home",NA,NA,0,1
+2019-12-14,"Glasgow","La Rochelle",7,12,"Away",NA,NA,0,1
+2019-12-14,"Leinster","Northampton",50,21,"Home",NA,NA,0,1
+2019-12-14,"Montpellier","Toulouse",18,26,"Away",NA,NA,0,1
+2019-12-14,"Saracens","Munster",15,6,"Home",NA,NA,0,1
+2019-12-14,"Treviso","Lyon",25,22,"Home",NA,NA,0,1
+2019-12-15,"Clermont Auvergne","Bath",52,26,"Home",NA,NA,0,1
+2019-12-15,"Exeter","Sale Sharks",35,10,"Home",NA,NA,0,1
+2020-01-10,"Bath","Harlequins",19,25,"Away",NA,NA,0,1
+2020-01-10,"La Rochelle","Sale Sharks",30,23,"Home",NA,NA,0,1
+2020-01-11,"Clermont Auvergne","Ulster",29,13,"Home",NA,NA,0,1
+2020-01-11,"Connacht","Toulouse",7,21,"Away",NA,NA,0,1
+2020-01-11,"Glasgow","Exeter",31,31,"Draw",NA,NA,0,1
+2020-01-11,"Gloucester","Montpellier",29,6,"Home",NA,NA,0,1
+2020-01-11,"Ospreys","Saracens",15,22,"Away",NA,NA,0,1
+2020-01-12,"Leinster","Lyon",42,14,"Home",NA,NA,0,1
+2020-01-12,"Northampton","Treviso",33,20,"Home",NA,NA,0,1
+2020-01-12,"Racing 92","Munster",39,22,"Home",NA,NA,0,1
+2020-01-18,"Exeter","La Rochelle",33,14,"Home",NA,NA,0,1
+2020-01-18,"Harlequins","Clermont Auvergne",19,26,"Away",NA,NA,0,1
+2020-01-18,"Lyon","Northampton",24,36,"Away",NA,NA,0,1
+2020-01-18,"Sale Sharks","Glasgow",7,45,"Away",NA,NA,0,1
+2020-01-18,"Treviso","Leinster",0,18,"Away",NA,NA,0,1
+2020-01-18,"Ulster","Bath",22,15,"Home",NA,NA,0,1
+2020-01-19,"Montpellier","Connacht",35,29,"Home",NA,NA,0,1
+2020-01-19,"Munster","Ospreys",33,6,"Home",NA,NA,0,1
+2020-01-19,"Saracens","Racing 92",27,24,"Home",NA,NA,0,1
+2020-01-19,"Toulouse","Gloucester",35,14,"Home",NA,NA,0,1
+2020-09-19,"Clermont Auvergne","Racing 92",27,36,"Away",NA,NA,0,0
+2020-09-19,"Leinster","Saracens",17,25,"Away",NA,NA,0,0
+2020-09-20,"Exeter","Northampton",38,15,"Home",NA,NA,0,0
+2020-09-20,"Toulouse","Ulster",36,8,"Home",NA,NA,0,0
+2020-09-26,"Exeter","Toulouse",28,18,"Home",NA,NA,0,0
+2020-09-26,"Racing 92","Saracens",19,15,"Home",NA,NA,0,0
+2020-10-17,"Exeter","Racing 92",31,27,"Home",NA,NA,1,0
+2020-12-12,"Northampton","Bordeaux",12,16,"Away",NA,NA,0,1
+2020-12-12,"Ulster","Toulouse",22,29,"Away",NA,NA,0,0
+2020-12-12,"Bath","Scarlets",19,23,"Away",NA,NA,0,1
+2020-12-12,"Toulon","Sale Sharks",26,14,"Home",NA,NA,0,0
+2020-12-12,"Dragons","Wasps",8,24,"Away",NA,NA,0,0
+2020-12-12,"Montpellier","Leinster",14,35,"Away",NA,NA,0,0
+2020-12-12,"Edinburgh","La Rochelle",8,13,"Away",NA,NA,0,0
+2020-12-12,"Bristol","Clermont Auvergne",38,51,"Away",NA,NA,0,0
+2020-12-12,"Lyon","Gloucester",55,10,"Home",NA,NA,0,0
+2020-12-12,"Exeter","Glasgow",42,0,"Home",NA,NA,0,1
+2020-12-12,"Racing 92","Connacht",26,22,"Home",NA,NA,0,0
+2020-12-12,"Munster","Harlequins",21,7,"Home",NA,NA,0,0
+2020-12-19,"Wasps","Montpellier",33,14,"Home",NA,NA,0,0
+2020-12-19,"Leinster","Northampton",35,19,"Home",NA,NA,0,0
+2020-12-19,"Bordeaux","Dragons",47,8,"Home",NA,NA,0,0
+2020-12-19,"Sale Sharks","Edinburgh",15,16,"Away",NA,NA,0,0
+2020-12-19,"Gloucester","Ulster",38,34,"Home",NA,NA,0,1
+2020-12-19,"Clermont Auvergne","Munster",31,39,"Away",NA,NA,0,0
+2020-12-19,"Harlequins","Racing 92",7,49,"Away",NA,NA,0,0
+2020-12-19,"Connacht","Bristol",18,27,"Away",NA,NA,0,0
+2021-04-03,"Gloucester","La Rochelle",16,27,"Away",1,2,0,0
+2021-04-03,"Wasps","Clermont Auvergne",25,27,"Away",3,3,0,0
+2021-04-03,"Munster","Toulouse",33,40,"Away",4,4,0,0
+2021-04-03,"Exeter","Lyon",47,25,"Home",7,3,0,0
+2021-04-03,"Racing 92","Edinburgh",56,3,"Home",7,0,0,0
+2021-04-03,"Bordeaux Begles","Bristol",36,17,"Home",3,1,0,0
+2021-04-03,"Scarlets","Sale Sharks",14,57,"Away",2,6,0,0
+2021-04-10,"La Rochelle","Sale Sharks",45,21,"Home",6,2,0,0
+2021-04-10,"Exeter","Leinster",22,34,"Away",3,3,0,0
+2021-04-10,"Bordeaux Begles","Racing 92",24,21,"Home",0,0,0,0
+2021-04-10,"Clermont Auvergne","Toulouse",12,21,"Away",0,0,0,0
+2021-05-01,"Toulouse","Bordeaux Begles",21,9,"Home",2,0,0,0
+2021-05-01,"La Rochelle","Leinster",32,23,"Home",2,2,0,0
+2021-05-22,"La Rochelle","Toulouse",17,22,"Away",1,1,1,1
+2021-12-10,"Northampton","Racing 92",14,45,"Away",2,5,0,1
+2021-12-11,"Cardiff Blues","Toulouse",7,39,"Away",1,5,0,1
+2021-12-11,"Bordeaux Begles","Leicester",13,16,"Away",1,1,0,1
+2021-12-11,"Leinster","Bath",45,20,"Home",7,2,0,1
+2021-12-11,"Clermont Auvergne","Ulster",23,29,"Away",2,2,0,1
+2021-12-11,"Exeter","Montpellier",42,6,"Home",6,0,0,1
+2021-12-12,"Connacht","Stade Francais",36,9,"Home",5,0,0,1
+2021-12-12,"Ospreys","Sale Sharks",13,21,"Away",1,3,0,1
+2021-12-12,"La Rochelle","Glasgow",20,13,"Home",2,1,0,1
+2021-12-12,"Wasps","Munster",14,35,"Away",2,4,0,1
+2021-12-12,"Castres","Harlequins",18,20,"Away",0,2,0,1
+2021-12-17,"Ulster","Northampton",27,22,"Home",4,2,0,1
+2021-12-18,"Harlequins","Cardiff Blues",43,17,"Home",6,3,0,1
+2021-12-18,"Glasgow","Exeter",22,7,"Home",1,1,0,1
+2021-12-18,"Munster","Castres",19,13,"Home",1,1,0,1
+2021-12-19,"Leicester","Connacht",29,23,"Home",4,2,0,1
+2022-01-14,"Cardiff Blues","Harlequins",33,36,"Away",5,5,0,0
+2022-01-14,"Castres","Munster",13,16,"Away",1,1,0,1
+2022-01-15,"Wasps","Toulouse",30,22,"Home",3,3,0,1
+2022-01-15,"Ospreys","Racing 92",10,25,"Away",1,3,0,0
+2022-01-15,"Connacht","Leicester",28,29,"Away",4,5,0,1
+2022-01-15,"Exeter","Glasgow",52,17,"Home",8,2,0,1
+2022-01-15,"La Rochelle","Bath",39,21,"Home",5,3,0,1
+2022-01-15,"Bristol","Stade Francais",28,17,"Home",4,2,0,1
+2022-01-16,"Leinster","Montpellier",89,7,"Home",13,1,0,1
+2022-01-16,"Northampton","Ulster",20,24,"Away",2,4,0,1
+2022-01-16,"Bordeaux Begles","Scarlets",45,10,"Home",7,2,0,1
+2022-01-16,"Clermont Auvergne","Sale Sharks",25,19,"Home",3,3,0,1
+2022-01-21,"Harlequins","Castres",36,33,"Home",5,5,0,1
+2022-01-22,"Bath","Leinster",7,64,"Away",1,10,0,1
+2022-01-22,"Scarlets","Bristol",21,52,"Away",2,8,0,1
+2022-01-22,"Ulster","Clermont Auvergne",34,31,"Home",5,3,0,1
+2022-01-22,"Glasgow","La Rochelle",30,38,"Away",3,4,0,1
+2022-01-23,"Sale Sharks","Ospreys",49,10,"Home",7,1,0,1
+2022-01-23,"Stade Francais","Connacht",37,31,"Home",5,4,0,1
+2022-01-23,"Munster","Wasps",45,7,"Home",6,1,0,1
+2022-01-23,"Montpellier","Exeter",37,26,"Home",4,4,0,1
+2022-04-08,"Connacht","Leinster",21,26,"Away",2,3,0,1
+2022-04-09,"Bordeaux Begles","La Rochelle",13,31,"Away",2,3,0,1
+2022-04-09,"Sale Sharks","Bristol",9,10,"Away",0,1,0,1
+2022-04-09,"Toulouse","Ulster",20,26,"Away",2,4,0,1
+2022-04-09,"Exeter","Munster",13,8,"Home",2,1,0,1
+2022-04-09,"Stade Francais","Racing 92",9,22,"Away",0,1,0,1
+2022-04-10,"Montpellier","Harlequins",40,26,"Home",5,4,0,1
+2022-04-10,"Clermont Auvergne","Leicester",10,29,"Away",1,5,0,1
+2022-04-15,"Leinster","Connacht",56,20,"Home",7,3,0,1
+2022-04-15,"Bristol","Sale Sharks",29,35,"Away",4,4,0,1
+2022-04-16,"Harlequins","Montpellier",33,20,"Home",5,2,0,1
+2022-04-16,"La Rochelle","Bordeaux Begles",31,23,"Home",4,2,0,1
+2022-04-16,"Munster","Exeter",26,10,"Home",2,2,0,1
+2022-04-16,"Leicester","Clermont Auvergne",27,17,"Home",4,2,0,1
+2022-04-16,"Ulster","Toulouse",23,30,"Away",2,3,0,1
+2022-04-17,"Racing 92","Stade Francais",33,22,"Home",4,3,0,1
+2022-05-07,"Munster","Toulouse",26,28,"Away",2,3,0,1
+2022-05-07,"La Rochelle","Montpellier",31,19,"Home",3,3,0,1
+2022-05-07,"Leicester","Leinster",14,23,"Away",2,2,0,1
+2022-05-08,"Racing 92","Sale Sharks",41,22,"Home",4,3,0,1
+2022-05-14,"Leinster","Toulouse",40,17,"Home",4,2,0,1
+2022-05-14,"Racing 92","La Rochelle",13,20,"Away",1,3,0,1
+2022-05-28,"La Rochelle","Leinster",24,21,"Home",3,0,1,1
+2022-12-09,"London Irish","Montpellier",27,32,"Away",3,4,0,1
+2022-12-10,"Racing 92","Leinster",10,42,"Away",1,6,0,1
+2022-12-10,"Sharks","Harlequins",39,31,"Home",5,5,0,1
+2022-12-10,"Clermont Auvergne","Stormers",24,14,"Home",2,1,0,1
+2022-12-10,"Gloucester","Bordeaux Begles",22,17,"Home",4,2,0,1
+2022-12-10,"Bulls","Lyon",42,36,"Home",6,5,0,1
+2022-12-10,"La Rochelle","Northampton",46,12,"Home",6,2,0,1
+2022-12-10,"Castres","Exeter",12,27,"Away",0,4,0,1
+2022-12-11,"Sale Sharks","Ulster",39,0,"Home",6,0,0,1
+2022-12-11,"Munster","Toulouse",13,18,"Away",1,2,0,1
+2022-12-11,"Saracens","Edinburgh",30,26,"Home",4,2,0,1
+2022-12-11,"Ospreys","Leicester",17,23,"Away",2,2,0,1
+2022-12-16,"Leinster","Gloucester",57,0,"Home",9,0,0,1
+2022-12-16,"Bordeaux Begles","Sharks",16,19,"Away",1,1,0,1
+2022-12-17,"Edinburgh","Castres",31,20,"Home",4,3,0,1
+2022-12-17,"Exeter","Bulls",44,14,"Home",6,2,0,1
+2022-12-17,"Leicester","Clermont Auvergne",23,16,"Home",2,1,0,1
+2022-12-17,"Lyon","Saracens",20,28,"Away",3,3,0,1
+2022-12-17,"Stormers","London Irish",34,14,"Home",4,2,0,1
+2022-12-17,"Ulster","La Rochelle",29,36,"Away",4,3,0,1
+2022-12-17,"Montpellier","Ospreys",10,21,"Away",1,3,0,1
+2022-12-18,"Northampton","Munster",6,17,"Away",0,2,0,1
+2022-12-18,"Toulouse","Sale Sharks",45,19,"Home",7,3,0,1
+2022-12-18,"Harlequins","Racing 92",14,10,"Home",2,1,0,1
+2023-01-13,"Clermont Auvergne","Leicester",29,44,"Away",4,5,0,1
+2023-01-14,"Gloucester","Leinster",14,49,"Away",2,7,0,1
+2023-01-14,"Sharks","Bordeaux Begles",32,3,"Home",5,0,0,1
+2023-01-14,"Bulls","Exeter",39,28,"Home",6,4,0,1
+2023-01-14,"Saracens","Lyon",48,28,"Home",7,4,0,1
+2023-01-14,"Sale Sharks","Toulouse",5,27,"Away",1,2,0,1
+2023-01-14,"Munster","Northampton",27,23,"Home",3,2,0,1
+2023-01-14,"La Rochelle","Ulster",7,3,"Home",1,0,0,1
+2023-01-14,"Ospreys","Montpellier",35,29,"Home",4,5,0,1
+2023-01-15,"Castres","Edinburgh",21,34,"Away",3,4,0,1
+2023-01-15,"Racing 92","Harlequins",30,29,"Home",3,4,0,1
+2023-01-15,"London Irish","Stormers",14,28,"Away",2,4,0,1
+2023-01-20,"Leicester","Ospreys",26,27,"Away",2,3,0,1
+2023-01-20,"Lyon","Bulls",31,7,"Home",4,1,0,1
+2023-01-21,"Harlequins","Sharks",39,29,"Home",5,4,0,1
+2023-01-21,"Northampton","La Rochelle",13,31,"Away",1,5,0,1
+2023-01-21,"Bordeaux Begles","Gloucester",17,26,"Away",2,3,0,1
+2023-01-21,"Leinster","Racing 92",36,10,"Home",6,2,0,1
+2023-01-21,"Exeter","Castres",40,3,"Home",6,0,0,1
+2023-01-21,"Stormers","Clermont Auvergne",30,16,"Home",4,1,0,1
+2023-01-21,"Ulster","Sale Sharks",22,11,"Home",3,1,0,1
+2023-01-22,"Montpellier","London Irish",21,21,"Draw",3,3,0,1
+2023-01-22,"Toulouse","Munster",20,16,"Home",1,2,0,1
+2023-01-22,"Edinburgh","Saracens",20,14,"Home",2,1,0,1
+2023-03-31,"Leicester","Edinburgh",16,6,"Home",1,0,0,1
+2023-04-01,"Sharks","Munster",50,35,"Home",7,5,0,1
+2023-04-01,"Stormers","Harlequins",32,28,"Home",5,4,0,1
+2023-04-01,"La Rochelle","Gloucester",29,26,"Home",4,3,0,1
+2023-04-01,"Leinster","Ulster",30,15,"Home",3,2,0,1
+2023-04-02,"Exeter","Montpellier",26,26,"Draw",4,3,0,1
+2023-04-02,"Saracens","Ospreys",35,20,"Home",4,2,0,1
+2023-04-02,"Toulouse","Bulls",33,9,"Home",3,0,0,1
+2023-04-07,"Leinster","Leicester",55,24,"Home",7,3,0,1
+2023-04-08,"Toulouse","Sharks",54,20,"Home",7,2,0,1
+2023-04-08,"Exeter","Stormers",42,17,"Home",6,3,0,1
+2023-04-09,"La Rochelle","Saracens",24,10,"Home",2,1,0,1
+2023-04-29,"Leinster","Toulouse",41,22,"Home",5,3,0,1
+2023-04-30,"La Rochelle","Exeter",47,28,"Home",7,4,0,1
+2023-05-20,"Leinster","La Rochelle",26,27,"Away",3,3,0,1
+2023-12-08,"Connacht","Bordeaux Begles",5,41,"Away",1,6,0,1
+2023-12-08,"Glasgow","Northampton",19,28,"Away",3,3,0,1
+2023-12-09,"Toulon","Exeter",18,19,"Away",2,3,0,1
+2023-12-09,"Bath","Ulster",37,14,"Home",5,2,0,1
+2023-12-09,"Toulouse","Cardiff Blues",52,7,"Home",7,1,0,1
+2023-12-09,"Bulls","Saracens",27,16,"Home",3,2,0,1
+2023-12-09,"Munster","Bayonne",17,17,"Draw",2,2,0,1
+2023-12-09,"Bristol","Lyon",36,34,"Home",5,6,0,1
+2023-12-10,"Sale Sharks","Stade Francais",28,5,"Home",3,1,0,1
+2023-12-10,"La Rochelle","Leinster",9,16,"Away",0,1,0,1
+2023-12-10,"Leicester","Stormers",35,26,"Home",4,2,0,1
+2023-12-10,"Racing 92","Harlequins",28,31,"Away",4,4,0,1
+2023-12-15,"Bayonne","Glasgow",11,12,"Away",1,2,0,1
+2023-12-15,"Northampton","Toulon",22,19,"Home",4,2,0,1
+2023-12-16,"Saracens","Connacht",55,36,"Home",8,5,0,1
+2023-12-16,"Stormers","La Rochelle",21,20,"Home",2,2,0,1
+2023-12-16,"Bordeaux Begles","Bristol",36,17,"Home",5,2,0,1
+2023-12-16,"Leinster","Sale Sharks",37,27,"Home",5,3,0,1
+2023-12-16,"Lyon","Bulls",29,28,"Home",5,3,0,1
+2023-12-16,"Cardiff Blues","Bath",32,39,"Away",4,6,0,1
+2023-12-16,"Ulster","Racing 92",31,15,"Home",4,3,0,1
+2023-12-17,"Exeter","Munster",32,24,"Home",4,4,0,1
+2023-12-17,"Harlequins","Toulouse",19,47,"Away",3,7,0,1
+2023-12-17,"Stade Francais","Leicester",24,27,"Away",3,3,0,1
+2024-01-12,"Northampton","Bayonne",61,14,"Home",9,2,0,1
+2024-01-13,"Lyon","Connacht",34,20,"Home",4,3,0,1
+2024-01-13,"Bristol","Bulls",17,31,"Away",3,4,0,1
+2024-01-13,"Cardiff Blues","Harlequins",15,54,"Away",2,8,0,1
+2024-01-13,"Ulster","Toulouse",24,48,"Away",3,7,0,1
+2024-01-13,"Exeter","Glasgow",19,17,"Home",3,2,0,1
+2024-01-13,"Toulon","Munster",18,29,"Away",2,4,0,1
+2024-01-13,"Leinster","Stade Francais",43,7,"Home",7,1,0,1
+2024-01-13,"Stormers","Sale Sharks",31,24,"Home",4,3,0,1
+2024-01-14,"Bordeaux Begles","Saracens",55,15,"Home",9,2,0,1
+2024-01-14,"Bath","Racing 92",29,25,"Home",4,3,0,1
+2024-01-14,"La Rochelle","Leicester",45,12,"Home",7,2,0,1
+2024-01-19,"Connacht","Bristol",27,10,"Home",4,1,0,1
+2024-01-19,"Glasgow","Toulon",29,5,"Home",5,1,0,1
+2024-01-20,"Bulls","Bordeaux Begles",46,40,"Home",6,6,0,1
+2024-01-20,"Harlequins","Ulster",47,19,"Home",7,3,0,1
+2024-01-20,"Leicester","Leinster",10,27,"Away",1,4,0,1
+2024-01-20,"Racing 92","Cardiff Blues",48,26,"Home",7,4,0,1
+2024-01-20,"Munster","Northampton",23,26,"Away",3,2,0,1
+2024-01-20,"Stade Francais","Stormers",20,24,"Away",3,4,0,1
+2024-01-20,"Saracens","Lyon",39,24,"Home",5,3,0,1
+2024-01-21,"Sale Sharks","La Rochelle",24,37,"Away",4,4,0,1
+2024-01-21,"Toulouse","Bath",31,19,"Home",5,3,0,1
+2024-01-21,"Bayonne","Exeter",40,17,"Home",6,3,0,1
+2024-04-05,"Harlequins","Glasgow",28,24,"Home",4,3,0,1
+2024-04-06,"Bulls","Lyon",59,19,"Home",9,3,0,1
+2024-04-06,"Exeter","Bath",21,15,"Home",3,2,0,1
+2024-04-06,"Stormers","La Rochelle",21,22,"Away",2,3,0,1
+2024-04-06,"Bordeaux Begles","Saracens",45,12,"Home",6,2,0,1
+2024-04-06,"Leinster","Leicester",36,22,"Home",5,3,0,1
+2024-04-07,"Northampton","Munster",24,14,"Home",4,2,0,1
+2024-04-07,"Toulouse","Racing 92",31,7,"Home",5,1,0,1
+2024-04-13,"Bordeaux Begles","Harlequins",41,42,"Away",6,6,0,1
+2024-04-13,"Leinster","La Rochelle",40,13,"Home",5,1,0,1
+2024-04-13,"Northampton","Bulls",59,22,"Home",9,3,0,1
+2024-04-14,"Toulouse","Exeter",64,26,"Home",9,2,0,1
+2024-05-04,"Leinster","Northampton",20,17,"Home",3,2,0,1
+2024-05-05,"Toulouse","Harlequins",38,26,"Home",6,4,0,1
+2024-05-25,"Toulouse","Leinster",15,15,"Draw",0,0,1,1
+2024-12-07,"Stormers","Toulon",14,24,"Away",2,3,0,1
+2024-12-07,"Northampton","Castres",38,8,"Home",6,1,0,1
+2024-12-07,"Munster","Stade Francais",33,7,"Home",5,1,0,1
+2024-12-07,"Saracens","Bulls",27,5,"Home",4,1,0,1
+2024-12-07,"Racing 92","Harlequins",23,12,"Home",3,2,0,1
+2024-12-07,"Glasgow","Sale Sharks",38,19,"Home",6,3,0,1
+2024-12-08,"Bristol","Leinster",12,35,"Away",2,5,0,1
+2024-12-06,"Bath","La Rochelle",20,24,"Away",2,3,0,1
+2024-12-07,"Sharks","Exeter",39,21,"Home",5,3,0,1
+2024-12-07,"Clermont Auvergne","Benetton",28,0,"Home",4,0,0,1
+2024-12-08,"Bordeaux Begles","Leicester",42,28,"Home",6,4,0,1
+2024-12-08,"Toulouse","Ulster",61,21,"Home",9,3,0,1
+2024-12-13,"Castres","Munster",16,14,"Home",2,2,0,1
+2024-12-13,"Sale Sharks","Racing 92",29,7,"Home",4,1,0,1
+2024-12-14,"Bulls","Northampton",21,30,"Away",3,4,0,1
+2024-12-14,"Ulster","Bordeaux Begles",19,40,"Away",3,6,0,1
+2024-12-14,"Leicester","Sharks",56,17,"Home",8,2,0,1
+2024-12-14,"Leinster","Clermont Auvergne",15,7,"Home",2,1,0,1
+2024-12-14,"Harlequins","Stormers",53,16,"Home",8,1,0,1
+2024-12-14,"La Rochelle","Bristol",35,7,"Home",5,1,0,1
+2024-12-15,"Benetton","Bath",22,21,"Home",4,3,0,1
+2024-12-15,"Stade Francais","Saracens",17,28,"Away",2,3,0,1
+2024-12-15,"Toulon","Glasgow",30,29,"Home",3,4,0,1
+2024-12-15,"Exeter","Toulouse",21,64,"Away",3,10,0,1
+2025-01-10,"Glasgow","Racing 92",29,19,"Home",5,3,0,1
+2025-01-11,"Stormers","Sale Sharks",40,0,"Home",6,0,0,1
+2025-01-11,"Exeter","Bordeaux Begles",17,69,"Away",3,11,0,1
+2025-01-11,"Sharks","Toulouse",8,20,"Away",1,2,0,1
+2025-01-11,"Munster","Saracens",17,12,"Home",2,0,0,1
+2025-01-11,"Stade Francais","Northampton",45,35,"Home",7,5,0,1
+2025-01-11,"Castres","Bulls",49,10,"Home",6,1,0,1
+2025-01-11,"Leicester","Ulster",38,10,"Home",6,1,0,1
+2025-01-12,"Toulon","Harlequins",33,21,"Home",5,3,0,1
+2025-01-12,"Bristol","Benetton",35,29,"Home",5,5,0,1
+2025-01-12,"La Rochelle","Leinster",14,16,"Away",1,1,0,1
+2025-01-12,"Bath","Clermont Auvergne",40,21,"Home",6,3,0,1
+2025-01-17,"Ulster","Exeter",52,24,"Home",8,4,0,1
+2025-01-18,"Clermont Auvergne","Bristol",33,26,"Home",5,4,0,1
+2025-01-18,"Northampton","Munster",34,32,"Home",5,4,0,1
+2025-01-18,"Benetton","La Rochelle",32,25,"Home",2,3,0,1
+2025-01-18,"Leinster","Bath",47,21,"Home",7,3,0,1
+2025-01-18,"Harlequins","Glasgow",24,7,"Home",3,1,0,1
+2025-01-19,"Toulouse","Leicester",80,12,"Home",12,2,0,1
+2025-01-19,"Sale Sharks","Toulon",33,7,"Home",5,1,0,1
+2025-01-18,"Bulls","Stade Francais",48,7,"Home",7,1,0,1
+2025-01-18,"Racing 92","Stormers",31,22,"Home",5,3,0,1
+2025-01-19,"Bordeaux Begles","Sharks",66,12,"Home",10,2,0,1
+2025-01-19,"Saracens","Castres",24,32,"Away",4,4,0,1
+2025-04-04,"Northampton","Clermont Auvergne",46,24,"Home",7,3,0,1
+2025-04-05,"Toulon","Saracens",72,42,"Home",10,6,0,1
+2025-04-05,"Castres","Benetton",39,37,"Home",6,5,0,1
+2025-04-05,"Leinster","Harlequins",62,0,"Home",10,0,0,1
+2025-04-05,"La Rochelle","Munster",24,25,"Away",3,3,0,1
+2025-04-05,"Glasgow","Leicester",43,19,"Home",6,3,0,1
+2025-04-06,"Bordeaux Begles","Ulster",43,31,"Home",6,5,0,1
+2025-04-06,"Toulouse","Sale Sharks",38,15,"Home",5,2,0,1
+2025-04-11,"Leinster","Glasgow",52,0,"Home",8,0,0,1
+2025-04-12,"Bordeaux Begles","Munster",47,29,"Home",6,4,0,1
+2025-04-12,"Northampton","Castres",51,16,"Home",7,1,0,1
+2025-04-13,"Toulon","Toulouse",18,21,"Away",0,2,0,1
+2025-05-03,"Leinster","Northampton",34,37,"Away",5,5,0,1
+2025-05-04,"Bordeaux Begles","Toulouse",35,18,"Home",5,2,0,1
+2025-05-24,"Northampton","Bordeaux Begles",20,28,"Away",2,4,1,1
+2025-12-05,"Bayonne","Stormers",17,26,"Away",3,2,0,1
+2025-12-05,"Sale Sharks","Glasgow",21,26,"Away",3,4,0,1
+2025-12-06,"Saracens","Clermont Auvergne",47,10,"Home",7,2,0,1
+2025-12-06,"Bulls","Bordeaux Begles",33,46,"Away",5,7,0,1
+2025-12-06,"La Rochelle","Leicester",39,20,"Home",6,2,0,1
+2025-12-06,"Leinster","Harlequins",45,28,"Home",7,4,0,1
+2025-12-06,"Bath","Munster",40,14,"Home",6,2,0,1
+2025-12-06,"Scarlets","Bristol",16,17,"Away",1,3,0,1
+2025-12-07,"Pau","Northampton",27,35,"Away",3,5,0,1
+2025-12-07,"Gloucester","Castres",34,14,"Home",4,2,0,1
+2025-12-07,"Toulouse","Sharks",56,19,"Home",8,3,0,1
+2025-12-07,"Edinburgh","Toulon",33,20,"Home",4,2,0,1
+2025-12-12,"Leicester","Leinster",15,23,"Away",2,2,0,1
+2025-12-13,"Clermont Auvergne","Sale Sharks",14,35,"Away",2,5,0,1
+2025-12-13,"Sharks","Saracens",28,23,"Home",4,3,0,1
+2025-12-13,"Glasgow","Toulouse",28,21,"Home",4,3,0,1
+2025-12-13,"Munster","Gloucester",31,3,"Home",5,0,0,1
+2025-12-13,"Stormers","La Rochelle",42,21,"Home",6,3,0,1
+2025-12-13,"Bordeaux Begles","Scarlets",50,21,"Home",8,3,0,1
+2025-12-14,"Castres","Edinburgh",33,0,"Home",5,0,0,1
+2025-12-14,"Toulon","Bath",45,34,"Home",5,4,0,1
+2025-12-14,"Harlequins","Bayonne",68,14,"Home",10,2,0,1
+2025-12-14,"Northampton","Bulls",50,5,"Home",8,1,0,1
+2025-12-14,"Bristol","Pau",61,12,"Home",9,2,0,1
+2026-01-09,"Castres","Bath",20,43,"Away",2,6,0,1
+2026-01-09,"Edinburgh","Gloucester",26,24,"Home",4,2,0,1
+2026-01-10,"Bulls","Bristol",49,61,"Away",7,9,0,1
+2026-01-10,"Clermont Auvergne","Glasgow",21,33,"Away",3,5,0,1
+2026-01-10,"Leinster","La Rochelle",25,24,"Home",4,3,0,1
+2026-01-10,"Sale Sharks","Sharks",26,10,"Home",4,1,0,1
+2026-01-10,"Leicester","Bayonne",57,14,"Home",9,2,0,1
+2026-01-10,"Scarlets","Pau",38,47,"Away",5,7,0,1
+2026-01-11,"Harlequins","Stormers",61,10,"Home",9,2,0,1
+2026-01-11,"Toulon","Munster",27,25,"Home",3,3,0,1
+2026-01-11,"Bordeaux Begles","Northampton",50,28,"Home",8,4,0,1
+2026-01-11,"Saracens","Toulouse",20,14,"Home",3,2,0,1
+2026-01-16,"Bath","Edinburgh",63,10,"Home",9,1,0,1
+2026-01-16,"Pau","Bulls",24,26,"Away",3,4,0,1
+2026-01-17,"Sharks","Clermont Auvergne",50,12,"Home",8,2,0,1
+2026-01-17,"Bayonne","Leinster",13,22,"Away",1,3,0,1
+2026-01-17,"Stormers","Leicester",39,26,"Home",5,4,0,1
+2026-01-17,"Munster","Castres",29,31,"Away",5,4,0,1
+2026-01-17,"Toulouse","Sale Sharks",77,7,"Home",11,1,0,1
+2026-01-17,"Gloucester","Toulon",14,31,"Away",2,4,0,1
+2026-01-18,"Bristol","Bordeaux Begles",15,27,"Away",2,4,0,1
+2026-01-18,"La Rochelle","Harlequins",17,27,"Away",3,4,0,1
+2026-01-18,"Northampton","Scarlets",43,28,"Home",6,4,0,1
+2026-01-18,"Glasgow","Saracens",28,3,"Home",4,0,0,1
+2026-04-03,"Northampton","Castres",49,41,"Home",7,6,0,1
+2026-04-04,"Bath","Saracens",31,22,"Home",5,3,0,1
+2026-04-04,"Toulon","Stormers",28,27,"Home",4,3,0,1
+2026-04-04,"Glasgow","Bulls",25,21,"Home",4,2,0,1
+2026-04-04,"Toulouse","Bristol",59,26,"Home",9,4,0,1
+2026-04-04,"Harlequins","Sale Sharks",17,26,"Away",3,2,0,1
+2026-04-05,"Bordeaux Begles","Leicester",64,14,"Home",9,2,0,1
+2026-04-05,"Leinster","Edinburgh",49,31,"Home",7,5,0,1
+2026-04-10,"Bath","Northampton",43,41,"Home",6,5,0,1
+2026-04-11,"Glasgow","Toulon",19,22,"Away",3,4,0,1
+2026-04-11,"Leinster","Sale Sharks",43,13,"Home",6,1,0,1
+2026-04-12,"Bordeaux Begles","Toulouse",30,15,"Home",4,2,0,1
+2026-05-02,"Leinster","Toulon",38,26,"Home",5,4,0,1
+2026-05-03,"Bordeaux Begles","Bath",29,25,"Home",4,3,0,1
+2026-05-23,"Bordeaux Begles","Leinster",NA,NA,"Draw",NA,NA,1,NA
